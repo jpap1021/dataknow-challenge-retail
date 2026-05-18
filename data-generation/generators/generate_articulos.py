@@ -1,5 +1,6 @@
 import pandas as pd
 import random
+import numpy as np
 from faker_commerce import Provider
 from faker import Faker
 
@@ -23,6 +24,7 @@ def generate_articulos(proveedores_df, total=5000):
 
         categoria_n1 = random.choice(list(CATEGORIAS.keys()))
         categoria_n2 = random.choice(CATEGORIAS[categoria_n1])
+        precio_base = np.random.lognormal(mean=3.5, sigma=1)
 
         articulo = {
             "art_id": i,
@@ -32,7 +34,7 @@ def generate_articulos(proveedores_df, total=5000):
             "id_categ_n2": categoria_n2,
             "id_categ_n3": fake.word(),
             "id_proveedor": random.choice(proveedor_ids),
-            "precio_lista": round(random.uniform(5, 5000), 2),
+            "precio_lista": round(min(precio_base * 10, 5000), 2),
             "peso_kg": round(random.uniform(0.1, 20), 2),
             "unid_medida": random.choice(["UND", "KG", "LT"]),
             "activo": True,

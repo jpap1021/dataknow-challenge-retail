@@ -55,10 +55,29 @@ def generate_ventas(
 
         articulo = random.choice(articulos)
 
-        fecha = fake.date_between_dates(
-            date_start=start_date,
-            date_end=end_date
-        )
+        meses_pesos = {
+            1: 0.07,
+            2: 0.06,
+            3: 0.07,
+            4: 0.07,
+            5: 0.08,
+            6: 0.08,
+            7: 0.08,
+            8: 0.08,
+            9: 0.07,
+            10: 0.09,
+            11: 0.12,
+            12: 0.13
+        }
+
+        mes = random.choices(
+            list(meses_pesos.keys()),
+            weights=list(meses_pesos.values())
+        )[0]
+
+        dia = random.randint(1, 28)
+
+        fecha = datetime(2025, mes, dia)
 
         qty = np.random.poisson(2) + 1
 

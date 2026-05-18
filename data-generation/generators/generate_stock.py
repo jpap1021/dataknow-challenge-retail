@@ -1,5 +1,7 @@
 import pandas as pd
 import random
+import numpy as np
+
 from faker import Faker
 from datetime import datetime
 
@@ -31,7 +33,7 @@ def generate_stock(
                 date_start=start_date,
                 date_end=end_date
             ),
-            "stock_fisico": stock_fisico,
+            "stock_fisico" = max(0, int(np.random.normal(120, 60))),
             "stock_transito": random.randint(0,100),
             "stock_reservado": random.randint(0,50),
             "stock_minimo_config": random.randint(10,50),
