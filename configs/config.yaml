@@ -1,0 +1,18 @@
+seed: 42
+
+date_range:
+  start: "2025-01-01"
+  end: "2025-12-31"
+
+volumes:
+  productos: 5000
+  proveedores: 800
+  tiendas: 150
+  miembros: 50000
+  ventas: 1000000
+  inventario: 750000
+  devoluciones: 50000
+
+output_formats:
+  - csv
+  - parquet
