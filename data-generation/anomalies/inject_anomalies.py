@@ -17,7 +17,7 @@ def inject_future_dates(df_ventas):
 
     sample_idx = df_ventas.sample(frac=0.005).index
 
-    future_date = datetime.now().date() + timedelta(days=365)
+    future_date = pd.Timestamp.now() + timedelta(days=365)
 
     df_ventas.loc[sample_idx, "fec_trans"] = future_date
 

@@ -1,151 +1,151 @@
 id_tienda,nom_tienda,tipo_tienda,id_ciudad,id_pais,metros_cuadrados,activo,fec_apertura
-1,Tienda_1,Hipermercado,Bogotá,Colombia,1512.0,True,2014-05-14
-2,Tienda_2,Supermercado,Bogotá,Colombia,1001.0,True,2023-03-10
-3,Tienda_3,Conveniencia,Lima,Perú,2977.0,True,2023-05-18
-4,Tienda_4,Conveniencia,Bogotá,Colombia,2348.0,True,2016-06-27
-5,Tienda_5,Supermercado,Medellín,Colombia,5780.0,True,2013-10-23
-6,Tienda_6,Conveniencia,Santiago,Chile,4347.0,True,2025-05-20
-7,Tienda_7,Hipermercado,Cali,Colombia,4503.0,True,2012-08-21
-8,Tienda_8,Hipermercado,Quito,Ecuador,5588.0,True,2017-01-02
-9,Tienda_9,Conveniencia,Cali,Colombia,1146.0,True,2012-07-05
-10,Tienda_10,Conveniencia,Lima,Perú,1362.0,True,2012-09-17
-11,Tienda_11,Conveniencia,Ciudad de México,México,6000.0,True,2019-08-17
-12,Tienda_12,Conveniencia,Ciudad de México,México,2834.0,True,2017-08-01
-13,Tienda_13,Supermercado,Medellín,Colombia,1785.0,False,2024-02-13
-14,Tienda_14,Conveniencia,Lima,Perú,1989.0,True,2012-09-23
-15,Tienda_15,Conveniencia,Lima,Perú,142.0,True,2012-05-12
-16,Tienda_16,Hipermercado,Quito,Ecuador,4106.0,True,2024-08-03
-17,Tienda_17,Supermercado,Ciudad de México,México,6374.0,True,2024-05-09
-18,Tienda_18,Hipermercado,Medellín,Colombia,9158.0,True,2014-04-24
-19,Tienda_19,Supermercado,Medellín,Colombia,4167.0,True,2012-04-12
-20,Tienda_20,Supermercado,Lima,Perú,4544.0,True,2015-05-24
-21,Tienda_21,Supermercado,Santiago,Chile,2056.0,True,2023-09-16
-22,Tienda_22,Hipermercado,Lima,Perú,3038.0,True,2013-09-30
-23,Tienda_23,Conveniencia,Quito,Ecuador,852.0,True,2011-07-15
-24,Tienda_24,Supermercado,Bogotá,Colombia,4725.0,True,2017-10-28
-25,Tienda_25,Hipermercado,Cali,Colombia,9161.0,True,2025-01-17
-26,Tienda_26,Supermercado,Bogotá,Colombia,3387.0,True,2025-01-28
-27,Tienda_27,Supermercado,Santiago,Chile,4074.0,True,2012-02-16
-28,Tienda_28,Conveniencia,Cali,Colombia,8183.0,True,2017-11-26
-29,Tienda_29,Conveniencia,Lima,Perú,,True,2014-10-15
-30,Tienda_30,Supermercado,Bogotá,Colombia,491.0,True,2016-05-02
-31,Tienda_31,Supermercado,Santiago,Chile,257.0,True,2011-06-17
-32,Tienda_32,Conveniencia,Bogotá,Colombia,6264.0,True,2020-11-08
-33,Tienda_33,Hipermercado,Bogotá,Colombia,8780.0,True,2018-06-07
-34,Tienda_34,Supermercado,Ciudad de México,México,1081.0,True,2019-06-14
-35,Tienda_35,Supermercado,Lima,Perú,,True,2013-11-11
-36,Tienda_36,Conveniencia,Medellín,Colombia,6867.0,True,2013-12-14
-37,Tienda_37,Conveniencia,Ciudad de México,México,1491.0,False,2013-10-11
-38,Tienda_38,Conveniencia,Bogotá,Colombia,2287.0,True,2014-03-11
-39,Tienda_39,Conveniencia,Bogotá,Colombia,9403.0,True,2025-08-13
-40,Tienda_40,Conveniencia,Ciudad de México,México,2241.0,True,2016-01-03
-41,Tienda_41,Supermercado,Cali,Colombia,5261.0,True,2015-05-05
-42,Tienda_42,Conveniencia,Lima,Perú,5445.0,True,2024-10-15
-43,Tienda_43,Supermercado,Ciudad de México,México,3927.0,True,2016-05-05
-44,Tienda_44,Hipermercado,Medellín,Colombia,9679.0,True,2015-05-24
-45,Tienda_45,Hipermercado,Medellín,Colombia,2793.0,True,2011-08-10
-46,Tienda_46,Supermercado,Ciudad de México,México,6760.0,True,2016-01-19
-47,Tienda_47,Supermercado,Santiago,Chile,3501.0,True,2022-03-04
-48,Tienda_48,Supermercado,Cali,Colombia,4441.0,True,2022-09-17
-49,Tienda_49,Hipermercado,Bogotá,Colombia,5084.0,False,2019-04-06
-50,Tienda_50,Hipermercado,Bogotá,Colombia,5470.0,True,2024-09-14
-51,Tienda_51,Conveniencia,Bogotá,Colombia,4166.0,True,2015-02-21
-52,Tienda_52,Conveniencia,Ciudad de México,México,902.0,True,2016-10-10
-53,Tienda_53,Hipermercado,Cali,Colombia,609.0,True,2015-01-04
-54,Tienda_54,Supermercado,Quito,Ecuador,9208.0,True,2015-12-23
-55,Tienda_55,Hipermercado,Medellín,Colombia,7670.0,True,2020-03-19
-56,Tienda_56,Hipermercado,Quito,Ecuador,2089.0,True,2024-02-04
-57,Tienda_57,Hipermercado,Bogotá,Colombia,2241.0,True,2020-11-30
-58,Tienda_58,Supermercado,Quito,Ecuador,6198.0,True,2014-01-28
-59,Tienda_59,Conveniencia,Santiago,Chile,4340.0,True,2023-07-25
-60,Tienda_60,Hipermercado,Bogotá,Colombia,3339.0,True,2018-02-18
-61,Tienda_61,Hipermercado,Quito,Ecuador,1606.0,True,2011-07-22
-62,Tienda_62,Hipermercado,Bogotá,Colombia,7652.0,True,2014-07-06
-63,Tienda_63,Conveniencia,Medellín,Colombia,7196.0,True,2024-05-18
-64,Tienda_64,Hipermercado,Ciudad de México,México,6370.0,True,2018-08-31
-65,Tienda_65,Supermercado,Medellín,Colombia,,True,2022-09-12
-66,Tienda_66,Supermercado,Cali,Colombia,7407.0,True,2014-06-02
-67,Tienda_67,Conveniencia,Bogotá,Colombia,4126.0,True,2015-07-22
-68,Tienda_68,Supermercado,Ciudad de México,México,9122.0,True,2025-07-08
-69,Tienda_69,Hipermercado,Bogotá,Colombia,4683.0,True,2012-09-11
-70,Tienda_70,Supermercado,Medellín,Colombia,3367.0,True,2017-09-24
-71,Tienda_71,Conveniencia,Medellín,Colombia,9007.0,True,2020-06-22
-72,Tienda_72,Conveniencia,Ciudad de México,México,5983.0,True,2023-12-04
-73,Tienda_73,Supermercado,Santiago,Chile,5736.0,False,2012-04-19
-74,Tienda_74,Supermercado,Santiago,Chile,6463.0,True,2018-05-10
-75,Tienda_75,Hipermercado,Medellín,Colombia,5324.0,False,2025-10-26
-76,Tienda_76,Hipermercado,Medellín,Colombia,,True,2020-12-20
-77,Tienda_77,Supermercado,Quito,Ecuador,8774.0,True,2020-06-07
-78,Tienda_78,Conveniencia,Quito,Ecuador,3913.0,True,2019-12-28
-79,Tienda_79,Hipermercado,Bogotá,Colombia,4051.0,True,2011-09-29
-80,Tienda_80,Conveniencia,Santiago,Chile,1016.0,True,2021-06-30
-81,Tienda_81,Supermercado,Santiago,Chile,5913.0,True,2025-05-26
-82,Tienda_82,Hipermercado,Medellín,Colombia,9807.0,True,2013-01-11
-83,Tienda_83,Conveniencia,Quito,Ecuador,5978.0,False,2024-12-13
-84,Tienda_84,Conveniencia,Bogotá,Colombia,5861.0,False,2022-11-07
-85,Tienda_85,Hipermercado,Santiago,Chile,9325.0,True,2016-12-30
-86,Tienda_86,Supermercado,Quito,Ecuador,8982.0,True,2022-05-25
-87,Tienda_87,Supermercado,Medellín,Colombia,721.0,True,2017-10-20
-88,Tienda_88,Hipermercado,Bogotá,Colombia,9957.0,True,2017-04-09
-89,Tienda_89,Conveniencia,Bogotá,Colombia,7931.0,True,2015-04-20
-90,Tienda_90,Conveniencia,Cali,Colombia,3400.0,True,2021-07-03
-91,Tienda_91,Conveniencia,Cali,Colombia,3007.0,True,2020-12-13
-92,Tienda_92,Hipermercado,Bogotá,Colombia,2520.0,False,2025-05-03
-93,Tienda_93,Hipermercado,Lima,Perú,1917.0,True,2021-08-11
-94,Tienda_94,Supermercado,Quito,Ecuador,1288.0,True,2013-07-25
-95,Tienda_95,Conveniencia,Lima,Perú,,False,2020-03-28
-96,Tienda_96,Supermercado,Bogotá,Colombia,5044.0,True,2024-10-11
-97,Tienda_97,Hipermercado,Medellín,Colombia,,True,2014-07-03
-98,Tienda_98,Supermercado,Lima,Perú,2954.0,True,2016-03-12
-99,Tienda_99,Conveniencia,Lima,Perú,5946.0,True,2022-09-02
-100,Tienda_100,Conveniencia,Lima,Perú,,True,2016-11-17
-101,Tienda_101,Conveniencia,Cali,Colombia,4925.0,True,2025-01-16
-102,Tienda_102,Conveniencia,Medellín,Colombia,129.0,False,2019-03-28
-103,Tienda_103,Conveniencia,Ciudad de México,México,630.0,True,2014-08-14
-104,Tienda_104,Supermercado,Santiago,Chile,3719.0,False,2016-01-06
-105,Tienda_105,Supermercado,Bogotá,Colombia,2404.0,True,2013-07-15
-106,Tienda_106,Hipermercado,Lima,Perú,3999.0,True,2015-12-17
-107,Tienda_107,Hipermercado,Cali,Colombia,1553.0,True,2020-08-06
-108,Tienda_108,Hipermercado,Ciudad de México,México,4445.0,True,2012-07-13
-109,Tienda_109,Conveniencia,Medellín,Colombia,1210.0,True,2025-02-15
-110,Tienda_110,Hipermercado,Cali,Colombia,120.0,True,2024-01-04
-111,Tienda_111,Supermercado,Ciudad de México,México,6975.0,True,2020-03-25
-112,Tienda_112,Supermercado,Ciudad de México,México,6304.0,True,2024-07-09
-113,Tienda_113,Supermercado,Santiago,Chile,1761.0,True,2011-11-13
-114,Tienda_114,Conveniencia,Quito,Ecuador,3795.0,True,2014-06-13
-115,Tienda_115,Hipermercado,Ciudad de México,México,647.0,True,2014-10-10
-116,Tienda_116,Supermercado,Bogotá,Colombia,4378.0,True,2017-05-12
-117,Tienda_117,Supermercado,Bogotá,Colombia,2887.0,True,2014-04-03
-118,Tienda_118,Conveniencia,Medellín,Colombia,1328.0,True,2015-04-09
-119,Tienda_119,Supermercado,Bogotá,Colombia,9832.0,False,2015-07-06
-120,Tienda_120,Conveniencia,Ciudad de México,México,607.0,True,2019-06-16
-121,Tienda_121,Hipermercado,Lima,Perú,7213.0,True,2022-02-15
-122,Tienda_122,Hipermercado,Bogotá,Colombia,5524.0,True,2012-01-29
-123,Tienda_123,Supermercado,Medellín,Colombia,9178.0,True,2013-09-22
-124,Tienda_124,Conveniencia,Cali,Colombia,4712.0,True,2019-08-27
-125,Tienda_125,Hipermercado,Medellín,Colombia,913.0,True,2023-06-21
-126,Tienda_126,Conveniencia,Santiago,Chile,8143.0,True,2014-01-24
-127,Tienda_127,Supermercado,Bogotá,Colombia,162.0,True,2021-04-12
-128,Tienda_128,Supermercado,Bogotá,Colombia,9933.0,True,2024-08-25
-129,Tienda_129,Hipermercado,Medellín,Colombia,521.0,True,2019-05-14
-130,Tienda_130,Conveniencia,Medellín,Colombia,4881.0,True,2011-10-17
-131,Tienda_131,Hipermercado,Ciudad de México,México,5152.0,True,2020-10-21
-132,Tienda_132,Supermercado,Ciudad de México,México,4441.0,True,2025-04-29
-133,Tienda_133,Conveniencia,Lima,Perú,6449.0,True,2023-01-05
-134,Tienda_134,Supermercado,Cali,Colombia,6152.0,True,2020-08-25
-135,Tienda_135,Hipermercado,Ciudad de México,México,4413.0,True,2014-04-30
-136,Tienda_136,Supermercado,Ciudad de México,México,,True,2015-07-03
-137,Tienda_137,Hipermercado,Santiago,Chile,2576.0,True,2024-01-18
-138,Tienda_138,Conveniencia,Bogotá,Colombia,5732.0,True,2024-10-29
-139,Tienda_139,Conveniencia,Ciudad de México,México,3827.0,True,2014-01-29
-140,Tienda_140,Supermercado,Bogotá,Colombia,8661.0,True,2020-05-09
-141,Tienda_141,Conveniencia,Santiago,Chile,7879.0,False,2014-09-26
-142,Tienda_142,Supermercado,Medellín,Colombia,4996.0,True,2014-07-13
-143,Tienda_143,Conveniencia,Ciudad de México,México,668.0,True,2015-03-21
-144,Tienda_144,Conveniencia,Santiago,Chile,9463.0,False,2020-12-13
-145,Tienda_145,Hipermercado,Medellín,Colombia,7457.0,True,2025-09-08
-146,Tienda_146,Hipermercado,Medellín,Colombia,3257.0,True,2014-08-17
-147,Tienda_147,Supermercado,Bogotá,Colombia,1383.0,True,2017-06-16
-148,Tienda_148,Conveniencia,Medellín,Colombia,2522.0,False,2011-07-07
-149,Tienda_149,Supermercado,Cali,Colombia,1197.0,True,2020-01-03
-150,Tienda_150,Conveniencia,Ciudad de México,México,6610.0,True,2020-07-29
+1,Tienda_1,Hipermercado,Bogotá,Colombia,1512.0,True,2021-08-25
+2,Tienda_2,Supermercado,Bogotá,Colombia,1001.0,True,2018-02-25
+3,Tienda_3,Conveniencia,Lima,Perú,2977.0,True,2015-04-23
+4,Tienda_4,Conveniencia,Bogotá,Colombia,2348.0,True,2012-09-23
+5,Tienda_5,Supermercado,Medellín,Colombia,5780.0,True,2025-05-17
+6,Tienda_6,Conveniencia,Santiago,Chile,4347.0,True,2012-05-12
+7,Tienda_7,Hipermercado,Cali,Colombia,4503.0,True,2012-11-08
+8,Tienda_8,Hipermercado,Quito,Ecuador,5588.0,True,2019-09-18
+9,Tienda_9,Conveniencia,Cali,Colombia,1146.0,True,2019-09-12
+10,Tienda_10,Conveniencia,Lima,Perú,1362.0,True,2026-05-09
+11,Tienda_11,Conveniencia,Ciudad de México,México,6000.0,True,2019-01-19
+12,Tienda_12,Conveniencia,Ciudad de México,México,2834.0,True,2022-03-24
+13,Tienda_13,Supermercado,Medellín,Colombia,1785.0,False,2021-10-10
+14,Tienda_14,Conveniencia,Lima,Perú,1989.0,True,2017-11-05
+15,Tienda_15,Conveniencia,Lima,Perú,142.0,True,2026-03-01
+16,Tienda_16,Hipermercado,Quito,Ecuador,4106.0,True,2021-03-29
+17,Tienda_17,Supermercado,Ciudad de México,México,6374.0,True,2020-02-29
+18,Tienda_18,Hipermercado,Medellín,Colombia,9158.0,True,2012-11-28
+19,Tienda_19,Supermercado,Medellín,Colombia,4167.0,True,2021-08-19
+20,Tienda_20,Supermercado,Lima,Perú,4544.0,True,2025-03-25
+21,Tienda_21,Supermercado,Santiago,Chile,2056.0,True,2019-04-09
+22,Tienda_22,Hipermercado,Lima,Perú,3038.0,True,2015-04-11
+23,Tienda_23,Conveniencia,Quito,Ecuador,852.0,True,2023-01-31
+24,Tienda_24,Supermercado,Bogotá,Colombia,4725.0,True,2018-07-15
+25,Tienda_25,Hipermercado,Cali,Colombia,9161.0,True,2021-07-17
+26,Tienda_26,Supermercado,Bogotá,Colombia,3387.0,True,2014-11-22
+27,Tienda_27,Supermercado,Santiago,Chile,4074.0,True,2021-12-28
+28,Tienda_28,Conveniencia,Cali,Colombia,8183.0,True,2022-09-29
+29,Tienda_29,Conveniencia,Lima,Perú,,True,2025-01-15
+30,Tienda_30,Supermercado,Bogotá,Colombia,491.0,True,2022-09-02
+31,Tienda_31,Supermercado,Santiago,Chile,257.0,True,2021-10-29
+32,Tienda_32,Conveniencia,Bogotá,Colombia,6264.0,True,2018-07-11
+33,Tienda_33,Hipermercado,Bogotá,Colombia,8780.0,True,2016-03-18
+34,Tienda_34,Supermercado,Ciudad de México,México,1081.0,True,2024-07-28
+35,Tienda_35,Supermercado,Lima,Perú,,True,2015-08-20
+36,Tienda_36,Conveniencia,Medellín,Colombia,6867.0,True,2021-12-19
+37,Tienda_37,Conveniencia,Ciudad de México,México,1491.0,False,2022-01-17
+38,Tienda_38,Conveniencia,Bogotá,Colombia,2287.0,True,2022-09-20
+39,Tienda_39,Conveniencia,Bogotá,Colombia,9403.0,True,2012-06-18
+40,Tienda_40,Conveniencia,Ciudad de México,México,2241.0,True,2024-10-11
+41,Tienda_41,Supermercado,Cali,Colombia,5261.0,True,2012-10-29
+42,Tienda_42,Conveniencia,Lima,Perú,5445.0,True,2013-10-04
+43,Tienda_43,Supermercado,Ciudad de México,México,3927.0,True,2024-10-18
+44,Tienda_44,Hipermercado,Medellín,Colombia,9679.0,True,2025-04-03
+45,Tienda_45,Hipermercado,Medellín,Colombia,2793.0,True,2017-08-15
+46,Tienda_46,Supermercado,Ciudad de México,México,6760.0,True,2015-11-03
+47,Tienda_47,Supermercado,Santiago,Chile,3501.0,True,2015-02-26
+48,Tienda_48,Supermercado,Cali,Colombia,4441.0,True,2020-12-03
+49,Tienda_49,Hipermercado,Bogotá,Colombia,5084.0,False,2024-01-12
+50,Tienda_50,Hipermercado,Bogotá,Colombia,5470.0,True,2021-08-12
+51,Tienda_51,Conveniencia,Bogotá,Colombia,4166.0,True,2019-11-20
+52,Tienda_52,Conveniencia,Ciudad de México,México,902.0,True,2018-05-10
+53,Tienda_53,Hipermercado,Cali,Colombia,609.0,True,2025-08-05
+54,Tienda_54,Supermercado,Quito,Ecuador,9208.0,True,2020-08-13
+55,Tienda_55,Hipermercado,Medellín,Colombia,7670.0,True,2022-11-28
+56,Tienda_56,Hipermercado,Quito,Ecuador,2089.0,True,2013-01-13
+57,Tienda_57,Hipermercado,Bogotá,Colombia,2241.0,True,2014-01-09
+58,Tienda_58,Supermercado,Quito,Ecuador,6198.0,True,2018-07-19
+59,Tienda_59,Conveniencia,Santiago,Chile,4340.0,True,2021-10-02
+60,Tienda_60,Hipermercado,Bogotá,Colombia,3339.0,True,2023-01-07
+61,Tienda_61,Hipermercado,Quito,Ecuador,1606.0,True,2014-07-02
+62,Tienda_62,Hipermercado,Bogotá,Colombia,7652.0,True,2017-09-07
+63,Tienda_63,Conveniencia,Medellín,Colombia,7196.0,True,2017-04-18
+64,Tienda_64,Hipermercado,Ciudad de México,México,6370.0,True,2014-10-15
+65,Tienda_65,Supermercado,Medellín,Colombia,,True,2026-05-07
+66,Tienda_66,Supermercado,Cali,Colombia,7407.0,True,2017-02-28
+67,Tienda_67,Conveniencia,Bogotá,Colombia,4126.0,True,2022-11-04
+68,Tienda_68,Supermercado,Ciudad de México,México,9122.0,True,2015-08-20
+69,Tienda_69,Hipermercado,Bogotá,Colombia,4683.0,True,2018-01-30
+70,Tienda_70,Supermercado,Medellín,Colombia,3367.0,True,2014-03-26
+71,Tienda_71,Conveniencia,Medellín,Colombia,9007.0,True,2013-03-11
+72,Tienda_72,Conveniencia,Ciudad de México,México,5983.0,True,2019-05-07
+73,Tienda_73,Supermercado,Santiago,Chile,5736.0,False,2023-09-12
+74,Tienda_74,Supermercado,Santiago,Chile,6463.0,True,2013-10-05
+75,Tienda_75,Hipermercado,Medellín,Colombia,5324.0,False,2013-10-18
+76,Tienda_76,Hipermercado,Medellín,Colombia,,True,2012-03-26
+77,Tienda_77,Supermercado,Quito,Ecuador,8774.0,True,2016-08-11
+78,Tienda_78,Conveniencia,Quito,Ecuador,3913.0,True,2019-01-01
+79,Tienda_79,Hipermercado,Bogotá,Colombia,4051.0,True,2011-07-05
+80,Tienda_80,Conveniencia,Santiago,Chile,1016.0,True,2013-06-04
+81,Tienda_81,Supermercado,Santiago,Chile,5913.0,True,2022-02-28
+82,Tienda_82,Hipermercado,Medellín,Colombia,9807.0,True,2024-05-18
+83,Tienda_83,Conveniencia,Quito,Ecuador,5978.0,False,2025-01-17
+84,Tienda_84,Conveniencia,Bogotá,Colombia,5861.0,False,2022-01-07
+85,Tienda_85,Hipermercado,Santiago,Chile,9325.0,True,2021-08-03
+86,Tienda_86,Supermercado,Quito,Ecuador,8982.0,True,2016-12-27
+87,Tienda_87,Supermercado,Medellín,Colombia,721.0,True,2019-11-15
+88,Tienda_88,Hipermercado,Bogotá,Colombia,9957.0,True,2015-03-28
+89,Tienda_89,Conveniencia,Bogotá,Colombia,7931.0,True,2016-01-02
+90,Tienda_90,Conveniencia,Cali,Colombia,3400.0,True,2012-04-06
+91,Tienda_91,Conveniencia,Cali,Colombia,3007.0,True,2012-08-22
+92,Tienda_92,Hipermercado,Bogotá,Colombia,2520.0,False,2021-09-04
+93,Tienda_93,Hipermercado,Lima,Perú,1917.0,True,2019-10-10
+94,Tienda_94,Supermercado,Quito,Ecuador,1288.0,True,2020-01-17
+95,Tienda_95,Conveniencia,Lima,Perú,,False,2013-12-16
+96,Tienda_96,Supermercado,Bogotá,Colombia,5044.0,True,2017-05-29
+97,Tienda_97,Hipermercado,Medellín,Colombia,,True,2017-03-29
+98,Tienda_98,Supermercado,Lima,Perú,2954.0,True,2016-07-21
+99,Tienda_99,Conveniencia,Lima,Perú,5946.0,True,2020-02-14
+100,Tienda_100,Conveniencia,Lima,Perú,,True,2013-08-10
+101,Tienda_101,Conveniencia,Cali,Colombia,4925.0,True,2023-10-19
+102,Tienda_102,Conveniencia,Medellín,Colombia,129.0,False,2020-01-21
+103,Tienda_103,Conveniencia,Ciudad de México,México,630.0,True,2023-01-23
+104,Tienda_104,Supermercado,Santiago,Chile,3719.0,False,2014-10-20
+105,Tienda_105,Supermercado,Bogotá,Colombia,2404.0,True,2025-09-27
+106,Tienda_106,Hipermercado,Lima,Perú,3999.0,True,2021-07-04
+107,Tienda_107,Hipermercado,Cali,Colombia,1553.0,True,2024-09-17
+108,Tienda_108,Hipermercado,Ciudad de México,México,4445.0,True,2016-07-10
+109,Tienda_109,Conveniencia,Medellín,Colombia,1210.0,True,2023-07-21
+110,Tienda_110,Hipermercado,Cali,Colombia,120.0,True,2012-11-01
+111,Tienda_111,Supermercado,Ciudad de México,México,6975.0,True,2023-10-24
+112,Tienda_112,Supermercado,Ciudad de México,México,6304.0,True,2013-10-20
+113,Tienda_113,Supermercado,Santiago,Chile,1761.0,True,2021-05-15
+114,Tienda_114,Conveniencia,Quito,Ecuador,3795.0,True,2012-07-26
+115,Tienda_115,Hipermercado,Ciudad de México,México,647.0,True,2016-05-31
+116,Tienda_116,Supermercado,Bogotá,Colombia,4378.0,True,2012-11-03
+117,Tienda_117,Supermercado,Bogotá,Colombia,2887.0,True,2022-09-02
+118,Tienda_118,Conveniencia,Medellín,Colombia,1328.0,True,2026-01-30
+119,Tienda_119,Supermercado,Bogotá,Colombia,9832.0,False,2017-01-10
+120,Tienda_120,Conveniencia,Ciudad de México,México,607.0,True,2017-08-21
+121,Tienda_121,Hipermercado,Lima,Perú,7213.0,True,2024-09-18
+122,Tienda_122,Hipermercado,Bogotá,Colombia,5524.0,True,2017-08-03
+123,Tienda_123,Supermercado,Medellín,Colombia,9178.0,True,2014-12-21
+124,Tienda_124,Conveniencia,Cali,Colombia,4712.0,True,2022-04-25
+125,Tienda_125,Hipermercado,Medellín,Colombia,913.0,True,2025-11-25
+126,Tienda_126,Conveniencia,Santiago,Chile,8143.0,True,2025-07-14
+127,Tienda_127,Supermercado,Bogotá,Colombia,162.0,True,2019-10-26
+128,Tienda_128,Supermercado,Bogotá,Colombia,9933.0,True,2014-05-23
+129,Tienda_129,Hipermercado,Medellín,Colombia,521.0,True,2014-09-27
+130,Tienda_130,Conveniencia,Medellín,Colombia,4881.0,True,2025-06-03
+131,Tienda_131,Hipermercado,Ciudad de México,México,5152.0,True,2025-12-06
+132,Tienda_132,Supermercado,Ciudad de México,México,4441.0,True,2015-08-22
+133,Tienda_133,Conveniencia,Lima,Perú,6449.0,True,2021-06-23
+134,Tienda_134,Supermercado,Cali,Colombia,6152.0,True,2011-11-18
+135,Tienda_135,Hipermercado,Ciudad de México,México,4413.0,True,2025-10-14
+136,Tienda_136,Supermercado,Ciudad de México,México,,True,2016-04-22
+137,Tienda_137,Hipermercado,Santiago,Chile,2576.0,True,2015-11-28
+138,Tienda_138,Conveniencia,Bogotá,Colombia,5732.0,True,2020-04-30
+139,Tienda_139,Conveniencia,Ciudad de México,México,3827.0,True,2019-06-28
+140,Tienda_140,Supermercado,Bogotá,Colombia,8661.0,True,2024-09-10
+141,Tienda_141,Conveniencia,Santiago,Chile,7879.0,False,2013-06-14
+142,Tienda_142,Supermercado,Medellín,Colombia,4996.0,True,2011-07-25
+143,Tienda_143,Conveniencia,Ciudad de México,México,668.0,True,2019-03-12
+144,Tienda_144,Conveniencia,Santiago,Chile,9463.0,False,2016-03-10
+145,Tienda_145,Hipermercado,Medellín,Colombia,7457.0,True,2013-08-02
+146,Tienda_146,Hipermercado,Medellín,Colombia,3257.0,True,2022-01-27
+147,Tienda_147,Supermercado,Bogotá,Colombia,1383.0,True,2018-07-22
+148,Tienda_148,Conveniencia,Medellín,Colombia,2522.0,False,2017-01-07
+149,Tienda_149,Supermercado,Cali,Colombia,1197.0,True,2023-10-12
+150,Tienda_150,Conveniencia,Ciudad de México,México,6610.0,True,2012-06-25

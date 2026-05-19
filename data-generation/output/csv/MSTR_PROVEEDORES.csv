@@ -1,801 +1,801 @@
 id_proveedor,razon_social,pais_origen,tiempo_repo_dias,calificacion_calidad,activo
-1,Morell & Asociados S.L.,México,1,3.97,True
-2,Desarrollo del Norte S.L.N.E,Perú,5,3.95,True
-3,Grupo Baquero S.L.N.E,México,19,2.69,True
-4,Banca Privada Españolas S.Coop.,México,7,1.93,False
-5,Izaguirre y Capdevila S.C.P,Colombia,18,1.8,True
-6,Noelia Linares Anaya S.L.,China,8,2.8,True
-7,Banco Cordero y asociados S.Coop.,Colombia,25,4.22,True
-8,Hnos Pelayo S.A.,Argentina,9,1.62,True
-9,Banco WXFA S.L.,México,3,2.52,True
-10,Hnos Marcos S.L.,Argentina,20,2.06,True
-11,Compañía Pastor S.Com.,USA,18,1.5,True
-12,Despacho Bertrán S.Coop.,México,18,2.17,False
-13,Montero y Romeu S.L.N.E,Argentina,19,1.77,True
-14,Manufacturas Rozas S.C.P,Colombia,22,1.91,True
-15,Campillo y Ángel S.A.U,México,28,1.93,True
-16,Transportes BSYF S.L.N.E,China,9,2.81,True
-17,Moreno & Asociados S.C.P,Chile,12,2.42,True
-18,Hnos Vilalta S.Coop.,México,20,3.54,True
-19,Riera y Arribas S.A.,Perú,6,2.85,True
-20,Supermercados Integrales S.L.,Perú,22,2.3,True
-21,Valero y Santos S.Coop.,Perú,27,1.13,True
-22,Vera Tamarit Manzano S.A.U,China,9,1.26,False
-23,Infraestructuras Tomás & Asociados S.Com.,Argentina,7,3.62,True
-24,Banca Privada GIB S.L.,USA,5,,True
-25,Industrias Viana y asociados S.Coop.,Brasil,24,3.34,False
-26,Soluciones Pineda S.A.U,China,12,1.88,True
-27,Company & Asociados S.Coop.,USA,3,4.02,True
-28,Osorio y asociados S.Com.,Chile,21,1.64,True
-29,Efraín Fortuny Pardo S.L.,México,13,2.53,True
-30,Valeria Granados Villalobos S.L.,Brasil,18,4.44,True
-31,Comercializadora Folch S.L.,México,22,,True
-32,Hermanos Abad S.L.N.E,Argentina,4,2.17,True
-33,Inmobiliaria Iberia S.C.P,USA,1,4.82,True
-34,Lalo Ferrándiz Rojas S.A.,Chile,17,4.65,True
-35,Hermanos Silva S.Com.,Perú,5,2.5,True
-36,Fábrica Iberia S.Com.,Colombia,20,2.3,True
-37,Transportes CGCY S.A.,México,30,2.45,True
-38,Hnos Valverde S.A.T.,Perú,2,1.96,False
-39,Asunción Acevedo Alberola S.A.,México,3,3.93,True
-40,Villaverde y asociados S.L.,Chile,5,,True
-41,Florina Salamanca Belmonte S.L.,Chile,9,3.11,False
-42,Asdrubal Borrás Valdés S.Coop.,China,7,4.72,True
-43,Guillen & Asociados S.L.N.E,Brasil,13,4.98,True
-44,Promociones Ferrández y asociados S.A.U,USA,29,3.07,True
-45,Servicios ME S.L.,Perú,8,1.26,True
-46,Banca Privada Carvajal y asociados S.L.,Perú,19,1.88,True
-47,René Salgado Godoy S.L.L.,Colombia,8,1.27,True
-48,Distribuciones JHL S.Com.,Argentina,3,3.06,True
-49,Comercial Ponce y asociados S.L.N.E,USA,7,3.16,False
-50,Comercial Ferrández S.L.,USA,8,4.14,True
-51,Luis Correa Pizarro S.L.,Perú,4,1.39,True
-52,Desarrollo Goicoechea S.Com.,Argentina,14,2.64,True
-53,Grupo Cases S.L.,México,2,2.61,True
-54,Industrias HHT S.L.,México,8,1.77,True
-55,Restauración Españolas S.L.,USA,5,2.69,True
-56,Sanmartín y asociados S.L.L.,USA,8,4.5,True
-57,Alimentación Lillo S.L.,USA,26,4.45,True
-58,Vidal y Barrio S.L.N.E,México,2,3.61,True
-59,Consultoría Villaverde & Asociados S.L.,Colombia,3,4.71,True
-60,Grupo Lobato S.L.,Chile,14,2.94,True
-61,Company & Asociados S.A.,China,29,1.23,True
-62,Alexandra Olivares Plaza S.A.,Colombia,13,2.06,True
-63,Ocaña & Asociados S.L.,Brasil,14,3.79,True
-64,González y asociados S.Com.,USA,5,,True
-65,Familia Pedro S.Coop.,Colombia,19,3.94,True
-66,Valcárcel y Lledó S.A.,Argentina,2,,True
-67,Román Ríos Cifuentes S.L.,Chile,2,,True
-68,Restauración Sureda & Asociados S.Coop.,Chile,3,,True
-69,Alimentación del Sur S.Coop.,China,4,4.77,False
-70,Tovar y asociados S.L.N.E,Perú,19,3.38,False
-71,Restauración MTZ S.L.,México,14,3.63,False
-72,Finanzas Ariño y asociados S.C.P,Argentina,30,2.04,True
-73,Infante y asociados S.L.,Perú,9,2.58,True
-74,Crespo y Cerezo S.Com.,USA,11,4.72,True
-75,Amaya y Manjón S.Com.,Colombia,15,3.48,False
-76,Instalaciones Iberia S.A.,México,3,3.15,True
-77,Transportes del Sur S.Coop.,Brasil,5,4.73,True
-78,Juan Francisco Aragón Gimenez S.Com.,Perú,12,2.14,True
-79,Desarrollo del Noroeste S.L.,Brasil,20,,True
-80,Grupo Franco S.L.,Colombia,22,4.27,True
-81,Jovita Marin Corral S.A.,México,29,1.54,True
-82,Moreno & Asociados S.A.,México,24,3.21,True
-83,Familia Porta S.A.,Brasil,20,1.84,True
-84,Fábrica Batalla S.Coop.,Perú,22,3.54,True
-85,Hnos Paredes S.A.,USA,9,4.62,True
-86,José Anaya Romero S.Coop.,México,21,2.69,True
-87,Lorenzo y Barba S.A.T.,Colombia,1,2.33,True
-88,Grupo Criado S.L.N.E,Brasil,6,3.96,True
-89,Ruperto Sanjuan Vélez S.C.P,China,18,1.04,True
-90,Fábrica Carlos S.Coop.,Chile,18,1.14,True
-91,Minería Amador & Asociados S.A.,Chile,14,1.51,True
-92,Industrias Española S.Com.,Argentina,29,4.73,True
-93,Promociones Manuel y asociados S.Com.,Argentina,7,3.73,True
-94,Comercializadora Araujo S.L.,Argentina,25,3.24,True
-95,Dorita Vargas Pi S.Com.,Chile,30,4.72,True
-96,Morante y asociados S.L.,Chile,29,2.65,True
-97,Banca Privada Españolas S.L.,Argentina,26,4.72,True
-98,Grupo Acedo S.A.,Brasil,6,4.15,True
-99,Carmona y Vera S.L.N.E,China,28,1.15,True
-100,Marco Amorós Maza S.C.P,Perú,7,4.27,True
-101,Servicios HNE S.L.,Argentina,10,4.28,True
-102,Manufacturas Maestre & Asociados S.L.N.E,Perú,1,3.64,True
-103,Rosell y Sandoval S.L.,Argentina,9,4.46,True
-104,Alcides Hervia Barriga S.L.N.E,Argentina,21,3.04,True
-105,Esparza & Asociados S.Coop.,Argentina,1,1.46,True
-106,Finanzas Doménech & Asociados S.A.,Chile,19,4.85,True
-107,Instalaciones Corominas & Asociados S.L.,Colombia,4,3.39,True
-108,Mínguez & Asociados S.Coop.,Argentina,14,3.42,True
-109,Servicios Ricart & Asociados S.L.,México,13,4.6,True
-110,Restauración Morán & Asociados S.A.,Brasil,2,3.84,True
-111,Farmaceútica Integrales S.L.L.,Perú,12,2.73,True
-112,Construcción Robledo y asociados S.Com.,Argentina,22,4.39,True
-113,Palomar y asociados S.L.,Brasil,22,2.63,True
-114,Hidalgo & Asociados S.L.N.E,Brasil,18,1.51,True
-115,Compañía del Sur S.Com.,China,22,3.99,True
-116,Aguilera y asociados S.Com.,Brasil,13,3.19,True
-117,Rodriguez & Asociados S.A.,Brasil,10,1.84,False
-118,Restauración Españolas S.L.,Argentina,15,2.77,True
-119,Hnos Vilar S.A.,USA,26,4.6,True
-120,Mascaró & Asociados S.L.,México,10,3.06,False
-121,Distribuciones Iberia S.L.U.,Argentina,3,4.27,True
-122,Servicios Infante S.L.,Brasil,8,4.23,True
-123,Llorente y Figueroa S.Com.,Colombia,2,1.98,True
-124,Servicios Solé y asociados S.Coop.,México,15,2.66,False
-125,Talleres Ibérica S.Com.,Perú,23,3.79,True
-126,Grupo Campoy S.L.N.E,China,8,1.59,True
-127,Minería DIEA S.Coop.,México,25,2.7,True
-128,Restauración UCNN S.Coop.,USA,2,3.23,True
-129,Manufacturas Melero & Asociados S.Coop.,USA,5,4.21,True
-130,Hotel Saez y asociados S.Coop.,Argentina,25,4.57,False
-131,Hermanos Larrañaga S.L.N.E,China,27,4.63,True
-132,Familia Calzada S.Coop.,Chile,24,4.45,True
-133,Instalaciones Piñol S.Coop.,Brasil,25,1.99,True
-134,Sabina Anguita Novoa S.L.,USA,21,1.96,True
-135,Consultoría Lucena & Asociados S.A.,México,23,2.14,True
-136,Gelabert y asociados S.Coop.,Argentina,11,4.57,True
-137,Inmobiliaria Avanzadas S.A.,Chile,5,1.93,True
-138,Familia Báez S.Com.,Perú,3,2.66,True
-139,Hotel TXG S.Com.,USA,14,1.25,True
-140,Supermercados GH S.L.,China,29,4.08,True
-141,Hnos Zabaleta S.A.,China,16,1.02,True
-142,Ramis & Asociados S.Coop.,Brasil,25,2.56,True
-143,Distribuciones del Sur S.L.,Perú,16,1.88,True
-144,Hnos Armas S.Com.,USA,1,2.56,True
-145,Infraestructuras WEXV S.Coop.,Chile,27,2.87,True
-146,Finanzas Baquero & Asociados S.A.T.,Colombia,30,2.58,False
-147,Tecnologías Españolas S.L.L.,Colombia,3,3.57,True
-148,Jimena Figueras Valderrama S.Com.,USA,6,1.2,True
-149,Lucas y Carvajal S.A.,Argentina,7,2.82,True
-150,Hermanos Cobo S.Coop.,China,9,4.01,True
-151,Aragonés y asociados S.L.,Brasil,27,1.33,True
-152,Fábrica Integrales S.Coop.,Colombia,12,1.9,True
-153,Sastre y Herrera S.L.,Colombia,25,1.12,True
-154,Industrias del Mediterráneo S.L.,Perú,27,1.08,True
-155,Paz Bermudez Valle S.A.,Perú,5,2.89,True
-156,Comercializadora Mayo S.Coop.,Perú,15,3.8,True
-157,Servicios Integrales S.L.N.E,Chile,20,3.43,True
-158,Grupo Amaya S.A.,Chile,10,1.43,True
-159,Servicios KPSX S.A.,Brasil,19,3.71,True
-160,Inversiones FON S.L.,China,23,1.79,False
-161,Distribuciones Vazquez S.L.,Perú,4,3.79,True
-162,Despacho Españolas S.Coop.,México,26,4.94,True
-163,Terrón y Barros S.Coop.,Argentina,18,2.71,True
-164,Banco Amigó S.L.L.,México,17,3.59,True
-165,Alimentación Llanos y asociados S.A.T.,China,27,2.96,True
-166,Bertrán & Asociados S.Coop.,Argentina,21,4.57,True
-167,Hermanos Hierro S.L.N.E,Chile,14,1.7,True
-168,Grupo Diez S.Coop.,Brasil,20,4.23,True
-169,Grupo Bas S.A.T.,USA,15,2.74,False
-170,Promociones del Mediterráneo S.L.N.E,Brasil,11,4.41,True
-171,Consultoría EFV S.Coop.,Brasil,29,2.8,True
-172,Servicios del Sur S.Com.,China,11,1.11,True
-173,Judith Merino Vall S.Coop.,Chile,16,1.85,True
-174,Villegas y Meléndez S.L.N.E,Argentina,9,4.52,True
-175,Manufacturas Sala y asociados S.A.,Colombia,17,4.79,True
-176,Promociones Doménech y asociados S.A.,Perú,24,2.63,True
-177,Farré & Asociados S.A.,Perú,23,2.9,True
-178,Instalaciones Guillen S.L.,USA,26,1.07,True
-179,Arana & Asociados S.L.,Perú,13,3.77,True
-180,Grupo Perales S.L.U.,Argentina,16,3.21,True
-181,Vallejo y Puig S.Com.,China,24,3.2,True
-182,Hnos Benavente S.Com.,USA,9,2.23,True
-183,Transportes Estrada y asociados S.Com.,México,24,1.77,True
-184,Familia Cabañas S.L.N.E,Chile,7,1.87,True
-185,Riera y Peláez S.L.,Brasil,24,3.36,True
-186,Transportes Bárcena y asociados S.A.,Brasil,4,4.33,True
-187,Banca Privada Garay & Asociados S.L.,Perú,12,1.72,True
-188,Hermanos Costa S.Com.,Chile,9,1.18,True
-189,Garriga y asociados S.A.,Brasil,23,4.78,True
-190,Compañía Española S.Coop.,México,28,1.05,True
-191,Transportes PGX S.L.N.E,USA,16,2.76,True
-192,Manufacturas Inteligentes S.L.N.E,Colombia,9,4.76,True
-193,Vicente Sanmartín Martí S.Coop.,México,27,1.26,True
-194,Hnos Sabater S.Coop.,México,19,3.52,True
-195,Comercializadora DDY S.L.U.,Chile,5,4.24,True
-196,Supermercados Española S.L.N.E,México,8,1.47,True
-197,Tecnologías Andreu & Asociados S.L.,Perú,25,3.09,True
-198,Hnos Sanmartín S.Coop.,USA,10,4.44,True
-199,Inmobiliaria OE S.A.,Brasil,19,3.48,False
-200,Finanzas Buendía S.L.L.,México,25,1.83,True
-201,Desarrollo Pol S.L.L.,Brasil,22,1.32,True
-202,Azahar Méndez Manzanares S.L.,Chile,18,1.3,True
-203,Chico y Niño S.Com.,China,15,3.76,True
-204,Pinto y Cobos S.Com.,Brasil,2,1.93,True
-205,Restauración Cervantes S.A.,USA,3,3.75,True
-206,Logística Españolas S.L.,Perú,14,1.46,True
-207,Grupo Palau S.L.,Chile,30,2.06,True
-208,Toledo y asociados S.A.,México,2,1.66,True
-209,Vega y Moreno S.C.P,Brasil,15,1.5,True
-210,Compañía Tamayo S.A.,China,9,3.0,True
-211,Banco Mendoza y asociados S.A.,USA,3,3.39,True
-212,Promociones Ruiz S.Coop.,Argentina,20,2.0,True
-213,Manso y Cases S.Com.,Perú,22,4.34,False
-214,Mariana Bermúdez Reguera S.Com.,Colombia,25,3.69,True
-215,Fuster y Moliner S.Coop.,Colombia,25,4.03,True
-216,Soluciones MLYS S.A.,USA,30,,False
-217,Grupo Corral S.A.D,China,21,4.26,True
-218,Soluciones UY S.Com.,USA,12,2.63,True
-219,Hermanos Morell S.A.,México,28,1.64,True
-220,Coronado y Hoyos S.L.N.E,USA,10,3.65,True
-221,Álvaro y Amador S.A.,Colombia,15,1.35,True
-222,Molina y Galvez S.L.U.,Argentina,4,4.88,True
-223,Manufacturas Somoza y asociados S.L.,Colombia,22,4.48,True
-224,Familia Durán S.L.N.E,China,2,1.75,True
-225,María Manuela Saez Linares S.Coop.,USA,21,2.77,True
-226,Eva Baró Lucena S.L.U.,Perú,9,3.2,True
-227,Infraestructuras del Noroeste S.L.U.,USA,29,3.79,True
-228,Inmobiliaria Bilbao & Asociados S.Coop.,Colombia,21,3.44,True
-229,Banco del Mediterráneo S.L.L.,Chile,10,3.2,True
-230,Luisina Cabeza Carnero S.Coop.,China,3,1.9,True
-231,Fábrica Chamorro y asociados S.L.N.E,USA,4,3.59,True
-232,Banco Novoa S.L.,USA,30,3.87,True
-233,Gisela Daza Bartolomé S.L.N.E,Brasil,14,4.34,True
-234,Grupo Valenciano S.Com.,Perú,15,3.21,True
-235,Marina Girona Ángel S.L.N.E,Perú,30,3.4,True
-236,Suministros Castellana S.Coop.,México,9,4.09,True
-237,Promociones Cerdá S.L.L.,Argentina,30,4.15,True
-238,Transportes Robledo y asociados S.Coop.,Colombia,10,3.9,False
-239,Hnos Sedano S.Coop.,USA,28,1.59,True
-240,Distribuciones Valbuena & Asociados S.L.,USA,12,2.33,True
-241,Industrias Ibérica S.L.,China,15,4.73,True
-242,Grupo Prado S.Com.,Perú,19,2.53,True
-243,Elisabet Araujo Sola S.C.P,Colombia,11,3.98,True
-244,Alimentación del Levante S.L.,China,22,4.17,True
-245,Supermercados Porta S.A.T.,USA,2,,False
-246,Inversiones Pellicer S.L.N.E,Argentina,28,1.4,True
-247,Grupo Goicoechea S.L.U.,México,17,4.64,True
-248,Peñas y Peña S.L.,Chile,14,4.48,True
-249,Familia Monreal S.Coop.,México,16,4.13,True
-250,Inmobiliaria KHIY S.A.,Argentina,20,3.77,True
-251,Familia Villalba S.Com.,Argentina,28,3.7,True
-252,Suministros BF S.Com.,China,11,3.51,True
-253,Instalaciones Martorell & Asociados S.L.,Colombia,20,1.27,True
-254,Suministros Alcolea S.Coop.,Perú,24,1.36,True
-255,Aranda y Alcántara S.L.N.E,México,15,1.67,True
-256,Isern y asociados S.L.,Colombia,2,2.3,True
-257,Tecnologías del Mediterráneo S.A.,Brasil,12,2.5,True
-258,Carmela Cañizares Paredes S.Com.,Perú,17,2.65,True
-259,Hermanos Llorens S.Com.,Chile,6,1.32,True
-260,Comercial Palmer S.A.,Perú,16,4.65,True
-261,Andrés y asociados S.L.L.,Perú,15,,True
-262,Comercial Font S.L.N.E,Brasil,22,1.04,True
-263,Inmaculada Robles Almeida S.A.,Brasil,22,3.19,True
-264,Ferrándiz y Lumbreras S.L.,USA,12,4.95,True
-265,Hermanos Marqués S.Coop.,China,23,2.0,True
-266,Grupo Benavente S.A.,Perú,13,4.41,True
-267,Banco Bastida & Asociados S.A.,Perú,13,3.29,False
-268,Hnos Ojeda S.L.L.,Brasil,23,2.18,True
-269,Desarrollo Vidal & Asociados S.Com.,Brasil,1,3.26,True
-270,Finanzas Alcaraz y asociados S.Com.,USA,27,4.62,True
-271,Transportes Globales S.C.P,Perú,20,4.21,True
-272,Iniesta & Asociados S.L.U.,Perú,20,2.0,True
-273,Distribuciones Heredia S.A.,México,29,3.51,True
-274,Banca Privada Teruel & Asociados S.L.,Brasil,26,2.76,False
-275,Comercial Mas & Asociados S.A.T.,Argentina,24,1.53,True
-276,Ayllón & Asociados S.C.P,Argentina,24,2.66,True
-277,Santos y asociados S.L.,Chile,26,3.16,True
-278,Infraestructuras Suárez & Asociados S.L.,Brasil,27,1.66,True
-279,Inversiones Castellana S.A.,Brasil,24,4.48,True
-280,Ramón y Aguiló S.L.L.,USA,3,1.56,True
-281,Servicios Jurado S.L.,China,28,4.22,True
-282,Santamaría y asociados S.L.N.E,México,26,2.58,True
-283,Escobar y asociados S.Com.,México,15,2.47,True
-284,Inversiones Inteligentes S.L.N.E,China,27,3.55,True
-285,Diaz y Ruano S.L.,México,22,1.94,True
-286,Supermercados Santiago & Asociados S.L.N.E,Argentina,30,3.44,True
-287,Menendez & Asociados S.A.,USA,30,,True
-288,Gonzalez y Barranco S.A.T.,México,5,1.18,True
-289,Tatiana Heras Mancebo S.A.,Brasil,16,1.46,True
-290,Infraestructuras Amaya y asociados S.Coop.,Chile,13,2.81,True
-291,Grupo Calderon S.L.N.E,China,19,3.97,True
-292,Hernandez y Soler S.L.,China,21,1.4,True
-293,Banco Valderrama y asociados S.C.P,China,9,1.13,True
-294,Hotel Sáez & Asociados S.L.U.,Perú,15,2.78,True
-295,Hermanos Briones S.Com.,Argentina,4,4.92,True
-296,Manufacturas WN S.L.N.E,Argentina,2,2.59,True
-297,Infraestructuras Castellana S.L.,México,28,4.3,True
-298,Hermanos Vall S.Coop.,Perú,21,3.56,True
-299,Bermúdez y Aller S.L.,Colombia,26,2.33,True
-300,Banca Privada RTHX S.Com.,Perú,3,4.32,True
-301,Hermanos Herrera S.L.,Perú,19,1.86,True
-302,Construcción Sanabria & Asociados S.A.,Argentina,25,1.59,False
-303,Arce y asociados S.C.P,Colombia,9,4.43,True
-304,Salvà y asociados S.A.D,Chile,18,2.0,True
-305,Inversiones Simó y asociados S.Com.,México,22,4.47,True
-306,Distribuciones Integrales S.L.L.,Colombia,12,4.16,True
-307,Familia Pedraza S.L.U.,Argentina,1,1.7,True
-308,Construcción Pérez S.Coop.,Chile,24,2.68,True
-309,Soluciones WAGE S.L.,México,16,2.79,True
-310,Finanzas García & Asociados S.A.,México,15,3.02,False
-311,Hnos Acevedo S.Com.,Colombia,24,4.13,True
-312,Hotel Roman S.Coop.,Brasil,15,3.57,True
-313,Familia Cervera S.L.,Colombia,16,4.39,True
-314,Hermenegildo Rico Cid S.L.,México,16,3.85,True
-315,Giralt y asociados S.Coop.,México,29,1.32,False
-316,Tecnologías del Noroeste S.L.,Chile,3,1.5,False
-317,Nicolás y asociados S.A.,Argentina,13,4.98,True
-318,Hnos Núñez S.A.,Brasil,15,3.02,True
-319,Despacho Moles S.Coop.,México,26,3.81,True
-320,Logística FVE S.A.,Perú,14,2.81,True
-321,Talleres Pérez S.L.,China,11,4.31,True
-322,Grupo Costa S.A.,China,24,1.38,True
-323,Andrés y asociados S.L.U.,Argentina,22,2.02,True
-324,Despacho Torrecilla & Asociados S.L.N.E,USA,3,1.36,True
-325,Restauración Macias S.Coop.,México,14,1.39,True
-326,Llamas y Carrera S.Coop.,Chile,18,1.24,True
-327,Desarrollo Internacionales S.Com.,Argentina,22,1.49,True
-328,Supermercados Ibérica S.A.,China,28,,True
-329,Paco Santana Ariño S.Coop.,Brasil,20,2.25,True
-330,Comercial AQ S.A.,Perú,5,3.63,True
-331,Ayala & Asociados S.A.,México,12,4.38,True
-332,Leocadia Moraleda España S.L.L.,México,25,2.11,True
-333,Buendía y Morera S.A.,China,28,3.24,False
-334,Hnos Solsona S.Coop.,Colombia,20,4.72,True
-335,Isern y Suárez S.Com.,Colombia,6,2.09,True
-336,Servicios Carrera S.L.N.E,Argentina,12,1.02,True
-337,Farmaceútica UF S.A.,China,3,1.57,True
-338,Cortina y asociados S.Com.,México,24,3.12,True
-339,Chico y asociados S.A.,China,15,2.36,True
-340,Galán y Carbonell S.L.N.E,Brasil,24,2.3,False
-341,Escolano & Asociados S.A.U,México,29,1.21,True
-342,Fábrica Vizcaíno S.L.N.E,Colombia,22,1.33,True
-343,Grupo Barbero S.A.D,China,16,3.43,True
-344,Consultoría DDT S.L.L.,Brasil,7,4.02,True
-345,Ovidio Molins Delgado S.Com.,Argentina,14,1.44,False
-346,Logística Pinedo & Asociados S.A.,USA,17,3.67,True
-347,Familia Borrás S.L.N.E,Perú,13,,True
-348,Farmaceútica Trujillo y asociados S.L.N.E,Colombia,7,2.21,True
-349,Seco & Asociados S.A.,Chile,25,2.02,True
-350,Tecnologías RLVN S.Coop.,México,1,2.99,True
-351,Familia Figuerola S.A.,Chile,5,2.52,True
-352,Promociones IDK S.A.,Argentina,3,2.59,True
-353,Hermanos Franco S.L.,China,1,2.84,True
-354,Banco ERX S.Com.,Argentina,19,2.72,True
-355,Hnos Marti S.L.N.E,China,10,1.46,True
-356,Restauración del Noroeste S.Com.,Argentina,6,4.21,False
-357,Fábrica IJN S.L.,USA,27,3.76,True
-358,Hermanos Salgado S.Com.,México,14,4.38,True
-359,Fortuny y Morcillo S.L.N.E,China,19,2.6,True
-360,Inmobiliaria Sandoval y asociados S.L.,China,28,2.24,True
-361,Hermanos Solera S.L.,Perú,11,,True
-362,Construcción WUF S.Com.,México,17,3.04,True
-363,Sacristán y Morante S.A.,Argentina,24,4.83,True
-364,Falcó y Gras S.Coop.,Perú,4,1.59,True
-365,Ferrer & Asociados S.Coop.,Chile,20,1.61,True
-366,Muñoz y asociados S.Com.,Chile,25,3.51,True
-367,Jove y Uría S.Com.,USA,22,4.7,False
-368,Familia Huguet S.L.,Argentina,28,4.88,True
-369,Distribuciones Fabregat S.A.D,Chile,15,1.27,True
-370,Valls y Soriano S.Com.,Brasil,26,2.1,True
-371,Logística MIL S.Coop.,Argentina,17,1.3,True
-372,Criado & Asociados S.A.,USA,2,1.23,True
-373,Talleres Méndez & Asociados S.L.,México,21,4.46,True
-374,Promociones del Mediterráneo S.Com.,China,15,3.32,True
-375,Manufacturas Vall y asociados S.L.N.E,USA,30,4.24,True
-376,Esperanza Almagro Pozuelo S.L.L.,Argentina,20,2.9,True
-377,Servicios Borrás S.Com.,Colombia,15,1.41,True
-378,Alimentación Globales S.L.U.,México,17,,True
-379,Castelló y Roura S.Coop.,Perú,23,2.75,True
-380,Castrillo y asociados S.C.P,Chile,12,2.49,True
-381,Almansa & Asociados S.A.,China,14,4.1,False
-382,Isabel Izaguirre Vallejo S.Com.,Colombia,26,3.52,True
-383,Vendrell y asociados S.C.P,México,11,1.38,True
-384,Aramburu & Asociados S.Coop.,Brasil,9,,False
-385,Comercializadora del Levante S.Com.,Chile,11,1.33,True
-386,Familia Bautista S.L.N.E,Argentina,10,4.87,True
-387,Pascual Pou Serrano S.L.,Chile,20,3.84,True
-388,Banca Privada Batlle S.L.,Brasil,18,2.51,True
-389,Soluciones del Sur S.A.T.,Chile,22,3.81,True
-390,Minería Globales S.Coop.,México,21,3.68,True
-391,Portillo y Andreu S.L.N.E,Argentina,1,2.45,True
-392,Pinto y Correa S.L.,Perú,11,4.79,True
-393,Servicios XJVW S.Coop.,Perú,8,5.0,True
-394,Casandra Bernad Carnero S.Com.,México,10,4.38,True
-395,Portillo & Asociados S.L.,Colombia,22,2.35,False
-396,Talleres Quesada S.L.L.,Chile,20,,True
-397,Promociones ZFF S.A.,Chile,27,3.77,False
-398,Infraestructuras Casals & Asociados S.C.P,Chile,24,2.75,True
-399,Soluciones del Norte S.L.,Argentina,22,,True
-400,Lobo & Asociados S.Coop.,Brasil,25,3.99,True
-401,Instalaciones Suarez y asociados S.A.D,Perú,18,1.96,True
-402,Construcción Gaya S.A.,Perú,12,3.71,False
-403,Amor y asociados S.Coop.,USA,15,4.08,True
-404,Grupo Casares S.Coop.,China,6,4.27,False
-405,Guillén y Vazquez S.L.,Chile,28,2.0,True
-406,Inmobiliaria Vergara S.Com.,Argentina,18,4.74,True
-407,Catalina Piñeiro Pardo S.A.,México,10,1.34,True
-408,Farmaceútica QA S.A.,Brasil,15,4.62,True
-409,Fábrica Avanzadas S.Coop.,China,3,4.79,True
-410,Cándido Manjón Garcia S.L.,USA,29,2.4,True
-411,Restauración del Sur S.L.L.,China,2,2.59,True
-412,Rosario Leiva Jover S.L.N.E,Perú,13,4.98,True
-413,Banca Privada del Levante S.Coop.,Perú,1,2.27,True
-414,Jennifer Plaza Cantón S.L.,Argentina,26,1.58,True
-415,Roig y asociados S.L.L.,Brasil,30,4.32,True
-416,Miró y Baños S.L.,USA,15,3.46,True
-417,Grupo Castell S.Coop.,Colombia,9,1.86,True
-418,Hermanos Borrás S.L.L.,China,4,4.1,True
-419,Agullo & Asociados S.L.,Brasil,4,1.19,True
-420,Banco Ibérica S.L.,USA,3,1.44,True
-421,Consultoría Cortina y asociados S.A.,Colombia,21,3.06,True
-422,Banco BZ S.A.,Chile,10,2.72,False
-423,Romero y Real S.A.,Argentina,8,3.28,True
-424,Consultoría Española S.Com.,México,17,4.9,True
-425,Promociones Boada S.L.N.E,Colombia,13,4.49,True
-426,Grupo Bueno S.L.L.,China,12,2.01,True
-427,Inversiones Inteligentes S.L.,Argentina,26,1.27,True
-428,Lara y Falcó S.A.U,México,25,3.33,True
-429,Fábrica Losada y asociados S.L.N.E,Chile,2,2.41,True
-430,Hotel Rivera y asociados S.L.L.,Chile,27,4.12,True
-431,Roda y Barriga S.L.N.E,USA,21,1.73,True
-432,Espejo & Asociados S.Com.,México,23,4.1,True
-433,Mendizábal y Ortiz S.L.N.E,Colombia,10,1.81,True
-434,Construcción Españolas S.Coop.,Colombia,11,4.73,True
-435,Familia Gual S.L.,China,27,3.17,True
-436,Consultoría Integrales S.A.U,Colombia,25,3.59,True
-437,Prat y asociados S.A.,Argentina,28,4.12,True
-438,Irene Bou Abellán S.Com.,Brasil,4,4.2,True
-439,Pepito Chacón Lopez S.A.T.,China,24,2.76,True
-440,Construcción Internacionales S.L.,Argentina,6,2.98,True
-441,Hnos Asensio S.C.P,Argentina,30,4.19,True
-442,Bautista y Rueda S.L.,México,24,2.7,True
-443,Quirós y asociados S.Coop.,Chile,18,2.18,True
-444,Aragonés & Asociados S.A.D,México,11,3.64,True
-445,Fábrica Alcaraz y asociados S.L.U.,USA,20,3.87,True
-446,Familia Cuesta S.L.L.,USA,12,2.79,True
-447,Rovira y asociados S.Coop.,China,9,3.56,True
-448,Supermercados HVE S.L.,México,22,3.55,True
-449,Rubén Royo Gibert S.Coop.,Chile,1,1.57,False
-450,Costa y Colomer S.Com.,USA,2,1.5,True
-451,Inversiones Jaume & Asociados S.L.N.E,Argentina,12,2.53,False
-452,Hermanos Pozo S.L.U.,Colombia,20,1.61,True
-453,Flor y Domingo S.L.N.E,Argentina,12,2.78,True
-454,Huertas & Asociados S.L.,Chile,17,2.47,True
-455,Familia Solana S.A.,Brasil,8,4.84,True
-456,Grupo Iborra S.Com.,Chile,16,3.07,True
-457,Guadalupe Bernal Gaya S.Coop.,México,9,,True
-458,Compañía Inteligentes S.L.N.E,Perú,20,2.14,True
-459,Villena y Macias S.L.N.E,Perú,4,1.54,True
-460,Miranda y asociados S.C.P,USA,6,4.59,True
-461,Despacho YJNE S.L.N.E,México,26,3.73,True
-462,Tamara Moraleda Herranz S.A.,Argentina,23,1.26,True
-463,Paco Malo Cardona S.L.,Brasil,29,2.2,True
-464,Leal y Núñez S.Com.,Chile,26,2.45,True
-465,Enríquez & Asociados S.Com.,México,7,4.17,True
-466,Banca Privada Vallejo S.L.N.E,USA,1,2.44,False
-467,Talleres FHV S.Coop.,Argentina,15,4.21,True
-468,Infraestructuras Segura & Asociados S.Com.,Chile,20,4.54,True
-469,Consultoría Casado y asociados S.L.,Brasil,13,5.0,True
-470,Inmobiliaria Globales S.L.,China,25,2.64,False
-471,Barrio & Asociados S.A.,México,5,4.89,True
-472,Banca Privada Ramis y asociados S.L.N.E,USA,15,3.72,True
-473,Hotel Vilar S.Com.,Chile,29,4.32,True
-474,Quesada y asociados S.L.N.E,Chile,25,4.87,True
-475,Promociones Globales S.A.,Colombia,27,1.5,True
-476,Restauración Carro & Asociados S.A.,Brasil,6,1.65,True
-477,Supermercados Echeverría S.A.,Argentina,17,4.58,True
-478,Godoy y asociados S.A.,Brasil,7,3.54,True
-479,Industrias Arranz y asociados S.L.L.,Brasil,5,3.5,False
-480,Azcona & Asociados S.L.,México,17,3.56,False
-481,Talleres Arrieta y asociados S.Coop.,Chile,6,3.63,False
-482,Familia Cabrera S.A.T.,Argentina,27,4.7,True
-483,Hnos Cobo S.A.,Colombia,3,1.18,False
-484,Hnos Verdú S.L.N.E,Brasil,21,1.84,False
-485,Comercial GWQM S.Coop.,China,20,3.56,True
-486,Familia Robledo S.L.,Brasil,21,4.83,True
-487,Consultoría Llorente S.L.N.E,Perú,26,4.23,True
-488,Servicios YV S.Coop.,Brasil,15,1.29,True
-489,Tiburcio Agustín Díez S.A.,Chile,15,2.66,True
-490,Fortunato Daza Valle S.L.,Perú,11,3.43,True
-491,Compañía Menendez S.C.P,Argentina,24,,True
-492,Blázquez y Caro S.Coop.,China,5,4.04,True
-493,José Manuel Borrás Andrade S.Com.,México,11,1.97,True
-494,Banco Escobar & Asociados S.L.N.E,Brasil,15,1.99,True
-495,Minería Salamanca y asociados S.Com.,Colombia,10,4.78,False
-496,Supermercados ULA S.Com.,China,8,4.85,True
-497,Leocadio Mateo Esparza S.A.U,Argentina,30,3.31,True
-498,Sanmartín y asociados S.A.,Perú,25,1.64,True
-499,Echevarría y asociados S.A.,USA,16,4.52,True
-500,Hnos Alonso S.L.,Colombia,3,4.78,True
-501,Hnos Nieto S.L.U.,USA,8,1.86,True
-502,Velasco y Andrade S.Coop.,Colombia,2,2.13,False
-503,Infraestructuras OCL S.Coop.,USA,10,3.15,True
-504,Promociones Caballero & Asociados S.L.N.E,China,5,4.53,True
-505,Farmaceútica Castellana S.A.,China,12,1.18,True
-506,Restauración Arregui y asociados S.C.P,Perú,12,3.21,True
-507,Inversiones Saura y asociados S.L.,China,17,2.8,True
-508,Farmaceútica Pagès S.A.,Brasil,27,4.96,False
-509,Grupo Prats S.A.T.,México,5,4.9,True
-510,Talleres Calzada & Asociados S.A.,Argentina,26,4.95,True
-511,Galán & Asociados S.L.N.E,Argentina,25,1.58,False
-512,Minería Trillo & Asociados S.L.L.,China,17,1.16,True
-513,Villanueva & Asociados S.A.,Chile,23,2.33,True
-514,Construcción Ibérica S.L.,USA,5,3.43,True
-515,Industrias VIBW S.L.N.E,Chile,11,4.73,True
-516,Pelayo y Marín S.A.D,Chile,13,4.96,True
-517,Supermercados Canales & Asociados S.L.N.E,Argentina,17,4.31,True
-518,Talleres Pedrosa y asociados S.A.,USA,23,3.25,True
-519,Romeu y asociados S.L.,Colombia,12,2.32,True
-520,Hermanos Casal S.Coop.,China,19,2.23,True
-521,Compañía Hervás S.Com.,USA,9,4.87,False
-522,Familia Tormo S.L.N.E,Perú,24,1.21,True
-523,Tecnologías BS S.Com.,Chile,17,3.52,False
-524,Chita Terrón Juan S.Coop.,China,5,4.29,True
-525,Silvestre Hernandez Nebot S.Coop.,Colombia,19,4.79,True
-526,Lara y Calatayud S.Com.,Perú,1,2.76,True
-527,Comercial Peinado & Asociados S.L.,Chile,14,,True
-528,Comercial Castellana S.Com.,USA,28,4.39,True
-529,Lamas y Carrasco S.Coop.,Chile,17,1.83,True
-530,Distribuciones Pablo S.A.,USA,17,,True
-531,Hnos Cortina S.A.,USA,30,3.13,True
-532,Grupo Cerezo S.Com.,Argentina,22,4.09,True
-533,Bonet y Manjón S.Coop.,USA,7,4.83,True
-534,Servicios BGAK S.L.L.,Brasil,8,,True
-535,Instalaciones Bueno S.Com.,Brasil,23,1.83,True
-536,Susana Mármol Llamas S.C.P,Argentina,16,2.4,True
-537,Bauzà & Asociados S.Coop.,Brasil,4,3.29,True
-538,Consultoría JSE S.Coop.,China,29,4.92,True
-539,Supermercados Cadenas & Asociados S.L.L.,Chile,10,1.17,True
-540,Miguela Lastra Borrell S.L.N.E,Argentina,30,2.77,True
-541,Téllez y Soto S.C.P,USA,7,1.81,True
-542,Finanzas Globales S.Com.,Brasil,30,3.25,True
-543,Inversiones BFFC S.C.P,Chile,4,3.46,False
-544,Atilio Roca Domingo S.L.,Perú,8,1.2,True
-545,Inmobiliaria Mata & Asociados S.A.,Perú,21,1.93,True
-546,Grupo Lucas S.Coop.,China,11,3.87,True
-547,Restauración Iberia S.Coop.,Chile,1,4.86,True
-548,Rocha y Vargas S.L.N.E,China,21,4.74,True
-549,Coloma y Porta S.A.,USA,21,1.8,True
-550,Hnos Llobet S.A.,Argentina,10,3.58,True
-551,Infraestructuras Talavera & Asociados S.L.,Perú,18,3.95,True
-552,Hermanos Castejón S.Com.,Chile,14,4.53,True
-553,Sosa y asociados S.C.P,Colombia,27,2.59,True
-554,Hermanos Olivé S.C.P,Chile,30,4.0,True
-555,Hotel Carbó S.Coop.,Colombia,1,2.19,False
-556,Comercial Casas & Asociados S.Coop.,México,30,4.93,True
-557,Mas & Asociados S.A.,USA,21,3.17,True
-558,Hermanos Luján S.A.,Chile,28,3.02,True
-559,Hotel LIE S.Com.,Perú,26,1.45,True
-560,Banca Privada Grau y asociados S.L.N.E,USA,21,2.03,True
-561,Minería Naranjo & Asociados S.L.,Colombia,24,2.35,True
-562,Grupo Seco S.Coop.,Perú,6,3.44,True
-563,Angulo y Perelló S.A.,China,17,2.31,True
-564,Viviana Villar Ponce S.L.L.,México,6,4.93,True
-565,Grupo Amorós S.Coop.,Argentina,30,1.99,True
-566,Victor Ariño Guillén S.L.,China,8,2.79,True
-567,Hotel VGHU S.A.,Argentina,10,3.33,False
-568,Román Cordero Amorós S.A.,Colombia,9,3.61,True
-569,Fábrica ALBG S.A.T.,Colombia,22,1.47,True
-570,Comercializadora Bosch S.Com.,Chile,13,3.74,True
-571,Armas y Chaves S.Com.,México,21,,True
-572,Servicios Alberdi & Asociados S.Coop.,Argentina,20,1.88,True
-573,Finanzas Sala y asociados S.L.N.E,USA,5,2.82,False
-574,Transportes Sandoval S.L.L.,Argentina,14,3.81,True
-575,Restauración del Levante S.A.,Perú,25,1.99,False
-576,Desarrollo Bastida S.L.,México,17,2.79,True
-577,Hotel JE S.Coop.,México,30,3.26,True
-578,Lara y asociados S.L.,Perú,19,3.15,True
-579,Llabrés y Quirós S.L.N.E,Argentina,28,,True
-580,Comercial Jaume y asociados S.C.P,Perú,23,3.33,True
-581,Aznar y Torrents S.Com.,USA,26,1.22,True
-582,Comercializadora Globales S.A.,China,15,3.26,True
-583,Judith Vera Ballesteros S.A.,USA,22,4.23,True
-584,Banco Castellana S.Coop.,China,9,4.27,True
-585,Instalaciones Castellana S.A.,México,2,2.69,True
-586,Consultoría Avanzadas S.L.N.E,Colombia,30,4.58,True
-587,Servicios MEP S.Coop.,Colombia,10,2.64,True
-588,Servicios Ibéricos S.L.L.,China,12,4.97,True
-589,Logística Briones & Asociados S.L.,USA,28,4.67,True
-590,Servicios MW S.L.,China,3,3.73,True
-591,Farmaceútica Sancho S.C.P,Chile,21,4.44,True
-592,Alberola y Belmonte S.Com.,Chile,18,2.57,True
-593,Infraestructuras Llorens S.L.,Perú,27,1.01,True
-594,Transportes del Sur S.L.U.,Brasil,15,3.69,True
-595,Servicios del Sur S.Coop.,China,18,2.52,True
-596,Gallart y asociados S.Coop.,Perú,15,2.38,True
-597,Losada y Gimeno S.A.,Perú,30,4.5,True
-598,Jovita Garrido Agudo S.L.,Colombia,26,3.64,False
-599,Collado y asociados S.Com.,Colombia,8,1.82,True
-600,Finanzas Jimenez S.L.L.,Colombia,15,3.39,True
-601,Castellanos & Asociados S.Coop.,Perú,24,1.18,True
-602,Comercializadora Monreal y asociados S.Com.,Perú,18,1.87,True
-603,Banca Privada del Levante S.L.,Chile,17,4.97,True
-604,Diaz y Porcel S.L.,Argentina,19,3.39,True
-605,Logística Españolas S.L.,Perú,10,4.51,True
-606,Despacho Lloret y asociados S.L.L.,Perú,14,2.2,True
-607,Benigna Barroso Diego S.C.P,Chile,21,3.72,True
-608,Albero & Asociados S.Coop.,USA,2,4.89,True
-609,Piñol y asociados S.A.,Argentina,23,2.67,True
-610,Grupo Carmona S.A.T.,Brasil,13,1.74,True
-611,Torralba y Belmonte S.A.,USA,8,,True
-612,Infraestructuras BDDH S.L.,Chile,26,2.85,True
-613,Juan José Ribas Esteban S.Com.,China,14,3.23,True
-614,Inversiones Adán y asociados S.L.,China,8,2.02,True
-615,Manufacturas ZUE S.L.N.E,México,30,2.8,True
-616,Transportes NVKV S.C.P,México,18,3.9,True
-617,Hnos Vendrell S.L.L.,Colombia,9,2.51,False
-618,Banca Privada VCV S.Coop.,Colombia,28,1.29,False
-619,Taboada & Asociados S.L.N.E,Perú,16,1.84,True
-620,Minería Barral & Asociados S.A.,Brasil,30,1.06,True
-621,Despacho GCGC S.L.,México,24,5.0,True
-622,Grupo Casas S.Com.,Perú,23,,True
-623,Borrell y Roca S.C.P,China,30,,True
-624,Escobar y Casal S.Com.,Brasil,13,2.87,True
-625,Grupo Bello S.L.,Brasil,9,2.44,True
-626,Hnos Coloma S.A.U,USA,4,4.21,True
-627,Hnos Pineda S.Com.,Argentina,30,1.81,True
-628,Comercializadora QSB S.A.T.,China,2,3.25,True
-629,Bas y Adadia S.Coop.,Chile,1,2.04,False
-630,Distribuciones Meléndez S.L.L.,China,10,1.61,True
-631,Hermanos Tirado S.L.,Perú,13,3.28,True
-632,Logística CI S.Com.,USA,18,3.62,True
-633,Comercial IITG S.A.,Brasil,25,4.29,True
-634,Clemente Garay Pinto S.L.N.E,USA,6,3.93,True
-635,Hnos Yuste S.Com.,Chile,5,3.88,True
-636,Girona y Juárez S.L.L.,Chile,30,,True
-637,Transportes del Noroeste S.L.,Colombia,27,4.39,True
-638,Trini Plana Llopis S.Coop.,Colombia,14,,True
-639,Eusebio Corbacho Gárate S.L.,México,23,1.6,True
-640,Hnos Leal S.L.,USA,12,1.24,False
-641,Lorenzo & Asociados S.A.T.,USA,22,2.95,True
-642,Inmobiliaria Salcedo y asociados S.L.L.,China,1,1.07,True
-643,Avilés & Asociados S.L.,Brasil,1,3.01,True
-644,Suministros Ocaña S.Coop.,Chile,4,4.67,True
-645,Piña y Plaza S.L.L.,Chile,8,1.77,True
-646,Comercializadora Perez S.C.P,Brasil,27,2.42,True
-647,Banco HQD S.L.N.E,México,12,4.84,True
-648,Inmobiliaria Folch y asociados S.L.,Perú,23,1.9,True
-649,Hermanos Soto S.C.P,Colombia,3,2.62,True
-650,Banca Privada Ibéricos S.L.,USA,2,3.55,True
-651,Construcción Vila & Asociados S.Coop.,México,16,4.38,True
-652,Transportes Gracia & Asociados S.L.,México,29,3.11,True
-653,Carina Rosales Lobato S.A.,Perú,7,4.61,False
-654,Grupo Barrena S.A.,USA,9,1.19,True
-655,Hnos Barceló S.L.,Brasil,29,3.17,True
-656,Comercial Globales S.L.,Chile,30,4.4,True
-657,Hermanos Alberola S.L.,Perú,19,1.58,True
-658,Tecnologías Bueno y asociados S.Coop.,México,10,1.65,True
-659,Carretero & Asociados S.L.N.E,China,22,,True
-660,Promociones Olmo S.A.,China,25,3.96,True
-661,Acosta y asociados S.L.N.E,Argentina,2,1.39,True
-662,Ribes y asociados S.Com.,México,11,3.42,False
-663,Minería Martí S.A.T.,China,25,2.31,True
-664,Angélica Vera Lumbreras S.L.N.E,USA,16,1.91,True
-665,Salamanca y Tena S.A.,China,14,1.74,False
-666,Soluciones del Mediterráneo S.L.,China,3,4.09,True
-667,Hnos Royo S.Com.,Perú,23,1.29,True
-668,Infraestructuras Españolas S.L.N.E,Chile,13,,True
-669,Farmaceútica YZI S.L.,China,11,2.44,True
-670,Finanzas Córdoba S.Coop.,Colombia,10,2.78,True
-671,Cañete y Pons S.L.,México,5,1.35,True
-672,Jordán y Folch S.C.P,USA,18,3.22,True
-673,Pallarès y Segura S.L.L.,México,1,1.36,True
-674,Cuadrado y asociados S.Coop.,México,20,3.39,True
-675,Servicios Vazquez & Asociados S.L.U.,China,1,2.17,True
-676,Banco Puig S.Com.,México,24,4.6,True
-677,Servicios PI S.L.,Chile,22,2.52,True
-678,Restauración Integrales S.L.,Brasil,10,2.07,True
-679,Finanzas Castell y asociados S.A.,México,6,2.74,True
-680,Hotel FPP S.A.,Brasil,16,4.13,True
-681,Figueras y asociados S.L.,Brasil,8,3.88,True
-682,Alemany y asociados S.Coop.,Perú,15,1.43,True
-683,Inmobiliaria JDME S.A.,Colombia,13,2.33,False
-684,Inmobiliaria Rivas & Asociados S.L.,China,26,4.45,True
-685,Hnos Pallarès S.L.L.,Argentina,14,4.26,False
-686,Perales & Asociados S.Coop.,Chile,10,2.28,True
-687,Barroso y Sanjuan S.L.,USA,11,1.71,True
-688,Manufacturas YT S.L.,Argentina,10,3.94,True
-689,Farré y Bustamante S.L.,Perú,11,2.5,True
-690,Jurado y Robledo S.Com.,Argentina,4,4.73,True
-691,Fuentes y asociados S.L.N.E,Chile,22,4.07,True
-692,Familia Baeza S.L.,USA,23,1.84,True
-693,Faustino Jaume Chaparro S.L.N.E,México,27,,True
-694,Logística NFR S.L.L.,USA,5,3.53,True
-695,Desarrollo ANWN S.L.U.,Brasil,22,1.62,True
-696,Manufacturas WPL S.L.,China,3,2.8,False
-697,Suministros Vázquez S.Coop.,USA,19,,True
-698,Bermudez & Asociados S.A.,China,18,1.15,True
-699,Banca Privada TOZ S.A.,México,4,4.08,True
-700,Vilma Gracia Caballero S.L.,Chile,21,3.45,False
-701,Simó & Asociados S.A.,China,25,2.33,True
-702,Pombo y Lobo S.L.N.E,México,1,1.39,True
-703,Farmaceútica Integrales S.Coop.,Perú,15,2.5,True
-704,Distribuciones Crespo S.A.,Chile,12,4.99,True
-705,Hermanos Cervera S.L.,México,10,2.66,True
-706,Beltrán y Gomez S.L.L.,México,27,4.76,True
-707,Amancio Sanchez Santamaria S.Coop.,Argentina,10,2.37,True
-708,Finanzas Agustí S.Com.,USA,12,2.9,True
-709,Hermanos Barragán S.A.T.,USA,11,1.27,True
-710,Construcción Calleja S.A.,México,1,4.4,True
-711,Alimentación Castellana S.Com.,Chile,30,4.94,True
-712,Eloy Palomo Corral S.Coop.,Chile,18,1.64,True
-713,Cuadrado y Agustí S.Coop.,China,15,1.93,True
-714,Blanca y asociados S.A.,Chile,6,3.56,True
-715,Tecnologías Peñalver y asociados S.L.,China,1,3.95,True
-716,Compañía VS S.L.,USA,19,2.72,True
-717,Carrión & Asociados S.L.N.E,Perú,7,2.11,True
-718,Falcó y asociados S.L.,México,26,4.49,True
-719,Giménez y Larrea S.Com.,Argentina,11,1.79,True
-720,Comercializadora GUTP S.L.L.,Brasil,22,4.45,True
-721,Ávila y asociados S.L.,Argentina,20,2.55,True
-722,Delia Barceló Piñeiro S.Coop.,México,12,,True
-723,Aragón & Asociados S.Com.,Chile,27,3.69,True
-724,Comercial Avanzadas S.A.,México,22,1.54,True
-725,Inversiones GYHF S.L.L.,Perú,10,1.47,True
-726,Quintanilla y Baeza S.L.N.E,Chile,17,2.55,False
-727,Hnos Varela S.A.,Chile,19,2.53,True
-728,Servicios OWFM S.L.N.E,USA,21,3.15,True
-729,Construcción Llopis y asociados S.L.L.,Chile,16,2.16,True
-730,Industrias KFJ S.Coop.,Argentina,27,2.8,True
-731,Fajardo & Asociados S.L.,Argentina,1,2.94,True
-732,Franch & Asociados S.L.,China,18,3.02,True
-733,Compañía del Mediterráneo S.Com.,China,22,2.97,True
-734,Anunciación Vega Escamilla S.L.,USA,6,1.33,True
-735,Hermanos Arce S.Coop.,Perú,10,1.13,True
-736,Soluciones Ibéricos S.A.,Brasil,6,4.12,False
-737,Soluciones Cabo S.L.N.E,USA,18,3.04,False
-738,Grupo Jáuregui S.Com.,México,9,4.1,True
-739,Servicios Mateos S.L.L.,Colombia,25,3.88,True
-740,Hnos Villena S.Coop.,Perú,14,1.41,True
-741,Duran y asociados S.A.,Brasil,28,5.0,True
-742,Infraestructuras Dominguez S.A.,Brasil,12,,True
-743,Despacho Escribano S.L.,USA,28,4.98,True
-744,Infraestructuras Sanmiguel S.L.N.E,Perú,26,3.95,True
-745,Soluciones Alfonso S.L.,China,6,3.46,True
-746,Hermanos Grau S.Com.,Perú,26,1.24,True
-747,Ledesma & Asociados S.Com.,Brasil,20,,True
-748,Hotel Macias S.Com.,Brasil,10,3.29,True
-749,Tolosa & Asociados S.Com.,México,5,4.85,True
-750,Construcción Españolas S.A.,Colombia,9,4.47,True
-751,Hnos Jove S.A.,Chile,8,1.58,True
-752,Familia Carvajal S.L.,Perú,25,4.37,True
-753,Grupo Tovar S.A.U,USA,5,3.31,True
-754,Banca Privada KNL S.L.L.,China,13,2.81,True
-755,Fábrica del Mediterráneo S.Coop.,China,17,4.0,True
-756,Restauración Agullo y asociados S.A.,USA,16,2.31,True
-757,Soluciones VAYY S.L.L.,México,24,4.89,True
-758,Logística FDTT S.A.,México,26,3.14,True
-759,Despacho Alvarado S.Com.,China,27,1.85,True
-760,Familia Bru S.A.,Argentina,27,2.13,True
-761,Vilalta y asociados S.Com.,Chile,19,,True
-762,Supermercados Solís S.A.,Colombia,2,1.4,True
-763,Hnos Villar S.A.,Colombia,4,4.72,True
-764,Industrias del Norte S.Coop.,USA,15,1.0,True
-765,Talleres Orozco S.Coop.,Perú,23,4.64,True
-766,Industrias Romero S.Coop.,Chile,28,4.73,True
-767,Promociones Alcaraz & Asociados S.A.,México,21,2.44,True
-768,Grupo Barros S.L.N.E,Argentina,22,4.62,True
-769,Hnos Cánovas S.Coop.,Colombia,13,3.5,True
-770,Pons y Batlle S.L.L.,China,21,1.36,True
-771,Hermanos Córdoba S.Coop.,Colombia,7,2.91,True
-772,Fábrica Villena y asociados S.A.,Perú,17,3.72,True
-773,Farmaceútica del Mediterráneo S.A.,Colombia,23,2.37,True
-774,Hnos Alcaraz S.L.,China,23,1.53,True
-775,Servicios Farré S.L.,Perú,13,1.36,True
-776,Comercializadora Parra y asociados S.L.,México,11,2.47,True
-777,Grupo Millán S.A.D,Chile,13,4.09,True
-778,Comercial Herrera y asociados S.Com.,Chile,3,3.12,True
-779,Jover y Miguel S.Coop.,Chile,15,2.4,True
-780,Clementina Ledesma Leiva S.Com.,Chile,30,2.65,True
-781,Lope Caro Lastra S.Coop.,Perú,3,4.59,True
-782,Jacobo Rodriguez Noriega S.A.,México,19,3.92,True
-783,Hermanos Téllez S.Com.,China,11,4.16,True
-784,Fábrica Garzón & Asociados S.L.,Brasil,21,1.34,True
-785,Ramírez y Navarrete S.A.,Brasil,25,4.77,True
-786,Farmaceútica Garrido S.Coop.,Brasil,7,3.07,True
-787,Ramos y Bayo S.L.,Perú,24,2.57,True
-788,Garcés y Figueroa S.L.,Perú,16,2.54,True
-789,Arco y Camino S.L.N.E,USA,21,3.38,True
-790,Minería Tirado S.A.,Colombia,12,4.74,True
-791,Talleres LB S.A.,China,28,4.36,True
-792,Transportes Guerrero y asociados S.Com.,Argentina,18,3.73,True
-793,Hnos Lara S.A.,México,1,3.35,True
-794,Distribuciones Toro y asociados S.Com.,Brasil,7,1.16,True
-795,Finanzas Iberia S.L.,China,17,2.15,True
-796,Familia Toledo S.A.U,China,14,3.81,True
-797,Compañía Andres S.L.,Chile,9,,True
-798,Finanzas Cifuentes S.L.,Perú,26,1.62,True
-799,Priego y Planas S.Coop.,China,19,3.54,True
-800,Moll y Benavides S.L.N.E,Brasil,23,2.75,True
+1,Minería SPWI S.L.L.,México,1,3.97,True
+2,Industrias Rovira S.L.N.E,Perú,5,3.95,True
+3,Fábrica MXZ S.L.N.E,México,19,2.69,True
+4,Soluciones Verdejo & Asociados S.A.,México,7,1.93,False
+5,Cerdá & Asociados S.Coop.,Colombia,18,1.8,True
+6,Abad y Lasa S.Com.,China,8,2.8,True
+7,Despacho Española S.Com.,Colombia,25,4.22,True
+8,Encarna Pou Pintor S.A.,Argentina,9,1.62,True
+9,Grupo Izquierdo S.L.,México,3,2.52,True
+10,Familia Tejedor S.L.,Argentina,20,2.06,True
+11,Albano Echevarría Baños S.L.N.E,USA,18,1.5,True
+12,Logística Ibérica S.A.T.,México,18,2.17,False
+13,Banca Privada Castellana S.L.,Argentina,19,1.77,True
+14,Ferrer & Asociados S.A.,Colombia,22,1.91,True
+15,Banco Palacios y asociados S.Com.,México,28,1.93,True
+16,Quirino Salinas Galván S.L.N.E,China,9,2.81,True
+17,Hermanos Santamaria S.L.L.,Chile,12,2.42,True
+18,Distribuciones del Levante S.A.T.,México,20,3.54,True
+19,Construcción Sáenz S.Coop.,Perú,6,2.85,True
+20,Noriega y Llorens S.Coop.,Perú,22,2.3,True
+21,Servicios Llano & Asociados S.L.L.,Perú,27,1.13,True
+22,Rita Domingo Cid S.Coop.,China,9,1.26,False
+23,Flavio Pavón Rosell S.Com.,Argentina,7,3.62,True
+24,Olalla Coca Sainz S.A.,USA,5,,True
+25,Lourdes Espinosa Peral S.Com.,Brasil,24,3.34,False
+26,Manolo Tejedor Gargallo S.L.N.E,China,12,1.88,True
+27,Banco Alegria S.A.,USA,3,4.02,True
+28,Suministros Artigas S.Com.,Chile,21,1.64,True
+29,León & Asociados S.Coop.,México,13,2.53,True
+30,Compañía MTX S.A.,Brasil,18,4.44,True
+31,Mendizábal y asociados S.Com.,México,22,,True
+32,Talleres NH S.L.,Argentina,4,2.17,True
+33,Construcción Reig & Asociados S.Coop.,USA,1,4.82,True
+34,Talleres del Norte S.Com.,Chile,17,4.65,True
+35,Pina & Asociados S.L.,Perú,5,2.5,True
+36,Grupo Lago S.Com.,Colombia,20,2.3,True
+37,Infraestructuras Alcolea S.C.P,México,30,2.45,True
+38,Fábrica Guzman & Asociados S.A.,Perú,2,1.96,False
+39,Jose Carlos Baró Azorin S.Coop.,México,3,3.93,True
+40,Estevez y asociados S.L.,Chile,5,,True
+41,Guerrero & Asociados S.L.,Chile,9,3.11,False
+42,Hnos Alcántara S.A.,China,7,4.72,True
+43,Eusebio Estevez Campoy S.Com.,Brasil,13,4.98,True
+44,Transportes Uriarte y asociados S.A.,USA,29,3.07,True
+45,Talleres Tolosa S.L.,Perú,8,1.26,True
+46,Hermanos Gallart S.L.,Perú,19,1.88,True
+47,Despacho Rocha y asociados S.A.,Colombia,8,1.27,True
+48,Moliner y asociados S.A.,Argentina,3,3.06,True
+49,Hnos Velasco S.Coop.,USA,7,3.16,False
+50,Distribuciones Vázquez S.L.,USA,8,4.14,True
+51,Maricela Feliu Álvarez S.L.N.E,Perú,4,1.39,True
+52,Hermanos Pinedo S.L.,Argentina,14,2.64,True
+53,Construcción Borja & Asociados S.Coop.,México,2,2.61,True
+54,Marianela Barón Vidal S.A.,México,8,1.77,True
+55,Logística ZV S.Coop.,USA,5,2.69,True
+56,Vara y asociados S.A.,USA,8,4.5,True
+57,Desarrollo Sola y asociados S.L.L.,USA,26,4.45,True
+58,Banca Privada Uribe S.Com.,México,2,3.61,True
+59,Banca Privada Carretero & Asociados S.Coop.,Colombia,3,4.71,True
+60,Comercial del Mediterráneo S.Coop.,Chile,14,2.94,True
+61,Grupo Ibañez S.Coop.,China,29,1.23,True
+62,Banca Privada Hurtado S.L.,Colombia,13,2.06,True
+63,Comercial ICJ S.L.,Brasil,14,3.79,True
+64,Alimentación Galvez & Asociados S.L.L.,USA,5,,True
+65,Restauración Palma S.L.,Colombia,19,3.94,True
+66,Minería Abad S.L.,Argentina,2,,True
+67,Amaya y Pintor S.Com.,Chile,2,,True
+68,Hotel del Mediterráneo S.A.,Chile,3,,True
+69,Norberto Expósito Llanos S.L.N.E,China,4,4.77,False
+70,Poza y Vazquez S.L.N.E,Perú,19,3.38,False
+71,Hnos Murcia S.A.,México,14,3.63,False
+72,Mercader y Mur S.L.,Argentina,30,2.04,True
+73,Emelina Morán Román S.Coop.,Perú,9,2.58,True
+74,Genoveva Mendez Montalbán S.A.,USA,11,4.72,True
+75,Inmobiliaria AIU S.Coop.,Colombia,15,3.48,False
+76,Soluciones Amador & Asociados S.L.N.E,México,3,3.15,True
+77,Compañía Españolas S.L.L.,Brasil,5,4.73,True
+78,Bautista Llano Martínez S.Coop.,Perú,12,2.14,True
+79,Mayol y Rey S.L.,Brasil,20,,True
+80,Mínguez y asociados S.Com.,Colombia,22,4.27,True
+81,Calderon & Asociados S.L.N.E,México,29,1.54,True
+82,Minería Sala S.Com.,México,24,3.21,True
+83,Grupo Montesinos S.L.,Brasil,20,1.84,True
+84,Ovidio Casal Arana S.L.,Perú,22,3.54,True
+85,Manufacturas Española S.Coop.,USA,9,4.62,True
+86,Talleres del Mediterráneo S.Com.,México,21,2.69,True
+87,Corominas & Asociados S.L.,Colombia,1,2.33,True
+88,Hotel Garzón S.A.,Brasil,6,3.96,True
+89,Infraestructuras Garriga S.Coop.,China,18,1.04,True
+90,Hnos Frías S.Com.,Chile,18,1.14,True
+91,Distribuciones PR S.L.,Chile,14,1.51,True
+92,Manufacturas KWCO S.Com.,Argentina,29,4.73,True
+93,Alimentación del Mediterráneo S.L.N.E,Argentina,7,3.73,True
+94,Valencia y Osorio S.C.P,Argentina,25,3.24,True
+95,Tejedor & Asociados S.Com.,Chile,30,4.72,True
+96,Soluciones Mena S.Com.,Chile,29,2.65,True
+97,Finanzas Fabregat S.Coop.,Argentina,26,4.72,True
+98,Infraestructuras Urrutia y asociados S.Com.,Brasil,6,4.15,True
+99,Eva Cal Martí S.L.,China,28,1.15,True
+100,Inmobiliaria Falcón & Asociados S.L.,Perú,7,4.27,True
+101,Fábrica Tamarit S.A.,Argentina,10,4.28,True
+102,Hnos Gonzalez S.A.,Perú,1,3.64,True
+103,Sáenz y Cabanillas S.C.P,Argentina,9,4.46,True
+104,Instalaciones Española S.A.,Argentina,21,3.04,True
+105,Promociones Integrales S.Com.,Argentina,1,1.46,True
+106,Hermanos Alonso S.C.P,Chile,19,4.85,True
+107,Tecnologías KXBY S.L.,Colombia,4,3.39,True
+108,Finanzas Mateu S.L.U.,Argentina,14,3.42,True
+109,Ángela Ruiz Chico S.L.L.,México,13,4.6,True
+110,Manufacturas Hurtado y asociados S.L.,Brasil,2,3.84,True
+111,Martorell y Aller S.A.U,Perú,12,2.73,True
+112,Hnos Borrell S.Com.,Argentina,22,4.39,True
+113,Roldán y asociados S.L.N.E,Brasil,22,2.63,True
+114,Consultoría Rojas y asociados S.Com.,Brasil,18,1.51,True
+115,Inmobiliaria Internacionales S.L.,China,22,3.99,True
+116,Banca Privada AEZ S.Coop.,Brasil,13,3.19,True
+117,Edgardo Ibarra Echeverría S.Com.,Brasil,10,1.84,False
+118,Promociones Moreno S.L.L.,Argentina,15,2.77,True
+119,Hermanos Morán S.C.P,USA,26,4.6,True
+120,Desarrollo JHQU S.A.,México,10,3.06,False
+121,Hnos Cantón S.L.,Argentina,3,4.27,True
+122,Inversiones Ibéricos S.Coop.,Brasil,8,4.23,True
+123,Sureda & Asociados S.L.,Colombia,2,1.98,True
+124,Supermercados ZXAC S.L.L.,México,15,2.66,False
+125,Ferrando y Alvarado S.Com.,Perú,23,3.79,True
+126,Borrego y asociados S.Com.,China,8,1.59,True
+127,Familia Murcia S.L.,México,25,2.7,True
+128,Álamo y asociados S.Com.,USA,2,3.23,True
+129,Restauración CVKS S.C.P,USA,5,4.21,True
+130,Navarro y asociados S.A.D,Argentina,25,4.57,False
+131,Talleres GZQ S.Com.,China,27,4.63,True
+132,Llorente y asociados S.L.N.E,Chile,24,4.45,True
+133,Tecnologías Donoso S.L.,Brasil,25,1.99,True
+134,Restauración Española S.L.N.E,USA,21,1.96,True
+135,Desarrollo LZB S.L.,México,23,2.14,True
+136,Farmaceútica Castellana S.L.L.,Argentina,11,4.57,True
+137,Feliciano Fuente Uría S.A.D,Chile,5,1.93,True
+138,Hotel Sanabria & Asociados S.L.L.,Perú,3,2.66,True
+139,Suministros Avanzadas S.L.U.,USA,14,1.25,True
+140,Despacho BXM S.L.U.,China,29,4.08,True
+141,Comercializadora DMXP S.A.U,China,16,1.02,True
+142,Familia Ortiz S.L.,Brasil,25,2.56,True
+143,Distribuciones DKC S.Coop.,Perú,16,1.88,True
+144,Soluciones Rios y asociados S.L.L.,USA,1,2.56,True
+145,Despacho Arnau S.L.N.E,Chile,27,2.87,True
+146,Barranco & Asociados S.Com.,Colombia,30,2.58,False
+147,Farmaceútica Mir y asociados S.A.D,Colombia,3,3.57,True
+148,Promociones KRON S.A.,USA,6,1.2,True
+149,Finanzas Integrales S.Com.,Argentina,7,2.82,True
+150,Supermercados Rivas y asociados S.A.U,China,9,4.01,True
+151,Instalaciones Inteligentes S.A.,Brasil,27,1.33,True
+152,Grupo Izaguirre S.L.,Colombia,12,1.9,True
+153,Roxana Comas Sureda S.L.,Colombia,25,1.12,True
+154,Consultoría Barriga S.Com.,Perú,27,1.08,True
+155,Solana y Vendrell S.Coop.,Perú,5,2.89,True
+156,Grupo Recio S.Coop.,Perú,15,3.8,True
+157,Infraestructuras Globales S.L.,Chile,20,3.43,True
+158,Roselló y Lucena S.Coop.,Chile,10,1.43,True
+159,Prudencio Rosado Espejo S.C.P,Brasil,19,3.71,True
+160,Distribuciones Núñez & Asociados S.Com.,China,23,1.79,False
+161,Comercializadora Izquierdo S.A.U,Perú,4,3.79,True
+162,Grupo Peinado S.Coop.,México,26,4.94,True
+163,Construcción del Sur S.A.,Argentina,18,2.71,True
+164,Instalaciones Arribas & Asociados S.Com.,México,17,3.59,True
+165,Infante y Saez S.L.L.,China,27,2.96,True
+166,Gálvez & Asociados S.Com.,Argentina,21,4.57,True
+167,Armas & Asociados S.A.,Chile,14,1.7,True
+168,Tecnologías SYNV S.Com.,Brasil,20,4.23,True
+169,Consultoría Muñoz & Asociados S.Coop.,USA,15,2.74,False
+170,Marino Corral Bello S.L.N.E,Brasil,11,4.41,True
+171,Julián Andrade Caballero S.L.,Brasil,29,2.8,True
+172,Infraestructuras MPIL S.Com.,China,11,1.11,True
+173,Comercializadora LVL S.L.,Chile,16,1.85,True
+174,Hotel PYWZ S.L.,Argentina,9,4.52,True
+175,Supermercados Integrales S.L.L.,Colombia,17,4.79,True
+176,Despacho Linares & Asociados S.A.D,Perú,24,2.63,True
+177,Construcción LX S.C.P,Perú,23,2.9,True
+178,Cañellas y Bustos S.C.P,USA,26,1.07,True
+179,Sevillano y Solsona S.Coop.,Perú,13,3.77,True
+180,Soluciones Laguna S.A.,Argentina,16,3.21,True
+181,Hermanos Bejarano S.A.,China,24,3.2,True
+182,Familia Luján S.L.N.E,USA,9,2.23,True
+183,Muro y Valera S.Coop.,México,24,1.77,True
+184,Matías Muro Tomás S.A.,Chile,7,1.87,True
+185,Comercial Nicolau S.A.,Brasil,24,3.36,True
+186,Boix & Asociados S.L.,Brasil,4,4.33,True
+187,Teobaldo Company Aragonés S.A.T.,Perú,12,1.72,True
+188,Lobato & Asociados S.Coop.,Chile,9,1.18,True
+189,Distribuciones OZZ S.Coop.,Brasil,23,4.78,True
+190,Nydia Torre Cañellas S.L.N.E,México,28,1.05,True
+191,Quiroga y Borrás S.A.,USA,16,2.76,True
+192,Transportes Machado S.A.T.,Colombia,9,4.76,True
+193,Hermanos Riquelme S.Com.,México,27,1.26,True
+194,Suministros Feliu y asociados S.L.,México,19,3.52,True
+195,Cesar Piquer Guitart S.Com.,Chile,5,4.24,True
+196,Minería EXLX S.L.N.E,México,8,1.47,True
+197,Banca Privada Isern & Asociados S.A.,Perú,25,3.09,True
+198,Instalaciones del Noroeste S.L.N.E,USA,10,4.44,True
+199,Corbacho y asociados S.L.,Brasil,19,3.48,False
+200,Suministros WC S.L.,México,25,1.83,True
+201,Promociones Inteligentes S.Com.,Brasil,22,1.32,True
+202,Barrio y Fuertes S.L.U.,Chile,18,1.3,True
+203,Barrios y Roda S.Com.,China,15,3.76,True
+204,Construcción SG S.L.U.,Brasil,2,1.93,True
+205,Berrocal y Ávila S.A.,USA,3,3.75,True
+206,Comercial Guitart S.Coop.,Perú,14,1.46,True
+207,Canales y Luján S.Coop.,Chile,30,2.06,True
+208,Solsona y Hurtado S.A.,México,2,1.66,True
+209,Sarabia y asociados S.Coop.,Brasil,15,1.5,True
+210,Distribuciones VB S.Com.,China,9,3.0,True
+211,Mirta Perelló Bernal S.L.U.,USA,3,3.39,True
+212,Griselda Durán Sevilla S.Coop.,Argentina,20,2.0,True
+213,Lobo & Asociados S.A.T.,Perú,22,4.34,False
+214,Despacho SJ S.A.U,Colombia,25,3.69,True
+215,Suministros JSO S.Coop.,Colombia,25,4.03,True
+216,Casas & Asociados S.C.P,USA,30,,False
+217,Manufacturas Zapata S.L.,China,21,4.26,True
+218,Finanzas Castellana S.A.,USA,12,2.63,True
+219,Hermanos Salom S.L.U.,México,28,1.64,True
+220,Servicios Cuesta S.Coop.,USA,10,3.65,True
+221,Hermanos Amorós S.L.,Colombia,15,1.35,True
+222,Hotel Huerta y asociados S.Coop.,Argentina,4,4.88,True
+223,Ariel Niño Tirado S.L.,Colombia,22,4.48,True
+224,Compañía Raya y asociados S.Com.,China,2,1.75,True
+225,Gomis y Sanmiguel S.A.,USA,21,2.77,True
+226,Finanzas OZJU S.L.L.,Perú,9,3.2,True
+227,Suministros Calderón S.Coop.,USA,29,3.79,True
+228,Grupo Montalbán S.A.,Colombia,21,3.44,True
+229,Gracia Haro Montenegro S.Coop.,Chile,10,3.2,True
+230,Ferrándiz y Martí S.Coop.,China,3,1.9,True
+231,Despacho Integrales S.L.L.,USA,4,3.59,True
+232,Vall & Asociados S.Coop.,USA,30,3.87,True
+233,Verdejo y Pla S.Com.,Brasil,14,4.34,True
+234,Manolo Aragón Atienza S.Coop.,Perú,15,3.21,True
+235,Alcázar & Asociados S.L.,Perú,30,3.4,True
+236,Bas y Arrieta S.A.,México,9,4.09,True
+237,Valdés y asociados S.A.,Argentina,30,4.15,True
+238,Familia Carpio S.Coop.,Colombia,10,3.9,False
+239,Hnos Rodriguez S.A.,USA,28,1.59,True
+240,Tecnologías Ballester S.Coop.,USA,12,2.33,True
+241,María Roldán Saldaña S.L.,China,15,4.73,True
+242,Transportes PEAG S.L.,Perú,19,2.53,True
+243,Manufacturas Cifuentes & Asociados S.Coop.,Colombia,11,3.98,True
+244,Familia Alegria S.Coop.,China,22,4.17,True
+245,Compañía Sainz y asociados S.C.P,USA,2,,False
+246,Familia Chaves S.C.P,Argentina,28,1.4,True
+247,Grupo Pujadas S.Com.,México,17,4.64,True
+248,Servicios Hernandez y asociados S.Com.,Chile,14,4.48,True
+249,Fabregat y Checa S.Com.,México,16,4.13,True
+250,Hnos Mate S.Com.,Argentina,20,3.77,True
+251,Zoraida Iniesta Garrido S.L.,Argentina,28,3.7,True
+252,Torre & Asociados S.L.L.,China,11,3.51,True
+253,Instalaciones PTWL S.Coop.,Colombia,20,1.27,True
+254,Prada y Chico S.A.,Perú,24,1.36,True
+255,Promociones Castellana S.L.,México,15,1.67,True
+256,Sans y Tirado S.A.T.,Colombia,2,2.3,True
+257,Florentina Gargallo Ibarra S.A.,Brasil,12,2.5,True
+258,Soluciones Ibérica S.Coop.,Perú,17,2.65,True
+259,Consultoría ACZ S.L.N.E,Chile,6,1.32,True
+260,Arroyo y Blazquez S.L.,Perú,16,4.65,True
+261,Elías y asociados S.A.,Perú,15,,True
+262,Hermanos Acosta S.Coop.,Brasil,22,1.04,True
+263,Plaza y Echeverría S.Com.,Brasil,22,3.19,True
+264,Construcción Integrales S.A.,USA,12,4.95,True
+265,Consultoría LZ S.L.,China,23,2.0,True
+266,Familia Pomares S.Coop.,Perú,13,4.41,True
+267,Despacho Castañeda y asociados S.Coop.,Perú,13,3.29,False
+268,Tecnologías Trillo S.L.,Brasil,23,2.18,True
+269,Narcisa Pomares Arribas S.A.,Brasil,1,3.26,True
+270,Comercial Checa & Asociados S.L.,USA,27,4.62,True
+271,Comercializadora CB S.Com.,Perú,20,4.21,True
+272,Norberto Manjón Diego S.L.N.E,Perú,20,2.0,True
+273,Fábrica Macias & Asociados S.L.N.E,México,29,3.51,True
+274,Supermercados Moliner y asociados S.A.,Brasil,26,2.76,False
+275,Ayuso y Egea S.A.,Argentina,24,1.53,True
+276,Desarrollo Cordero & Asociados S.L.N.E,Argentina,24,2.66,True
+277,Sol Moliner Bustos S.Coop.,Chile,26,3.16,True
+278,Inversiones BPUW S.Com.,Brasil,27,1.66,True
+279,Inversiones ZQQC S.Coop.,Brasil,24,4.48,True
+280,Servicios Ibéricos S.A.D,USA,3,1.56,True
+281,Barco y asociados S.Com.,China,28,4.22,True
+282,Supermercados LMUL S.Coop.,México,26,2.58,True
+283,Soluciones Duran S.L.N.E,México,15,2.47,True
+284,Silvio Martin Folch S.Coop.,China,27,3.55,True
+285,Hermanos Arnal S.Com.,México,22,1.94,True
+286,Farmaceútica Rosa S.L.,Argentina,30,3.44,True
+287,Talleres MJK S.L.,USA,30,,True
+288,Vinicio Blasco Uría S.Com.,México,5,1.18,True
+289,Minería Suarez & Asociados S.A.,Brasil,16,1.46,True
+290,Marqués y asociados S.A.,Chile,13,2.81,True
+291,Inmobiliaria Osorio & Asociados S.C.P,China,19,3.97,True
+292,Banca Privada Castrillo S.L.,China,21,1.4,True
+293,Anita Navas Diéguez S.Com.,China,9,1.13,True
+294,Grupo Ferreras S.L.N.E,Perú,15,2.78,True
+295,Goyo Tejera Vargas S.A.,Argentina,4,4.92,True
+296,Domingo Solsona Castejón S.Coop.,Argentina,2,2.59,True
+297,Hermanos Gutierrez S.A.,México,28,4.3,True
+298,Restauración XE S.A.,Perú,21,3.56,True
+299,Suministros Ibéricos S.Com.,Colombia,26,2.33,True
+300,Hermanos Araujo S.A.,Perú,3,4.32,True
+301,Garriga & Asociados S.Coop.,Perú,19,1.86,True
+302,Hnos Andrés S.L.,Argentina,25,1.59,False
+303,Desarrollo Vallejo & Asociados S.Com.,Colombia,9,4.43,True
+304,Carmelo Navarro Cal S.Com.,Chile,18,2.0,True
+305,Fernández y Navarro S.L.N.E,México,22,4.47,True
+306,Berto Heras Clemente S.L.,Colombia,12,4.16,True
+307,Rosario Múñiz Uría S.Com.,Argentina,1,1.7,True
+308,Hernandez y Franco S.A.,Chile,24,2.68,True
+309,Farmaceútica Iberia S.A.,México,16,2.79,True
+310,Adadia y asociados S.L.L.,México,15,3.02,False
+311,Supermercados Montenegro S.A.,Colombia,24,4.13,True
+312,Roldan y Adán S.L.,Brasil,15,3.57,True
+313,Ripoll & Asociados S.L.N.E,Colombia,16,4.39,True
+314,Despacho Guillen S.Coop.,México,16,3.85,True
+315,Guadalupe Dominguez Pareja S.L.,México,29,1.32,False
+316,Marita Coello Ugarte S.Coop.,Chile,3,1.5,False
+317,Minería KOT S.Coop.,Argentina,13,4.98,True
+318,Restauración Porta S.Com.,Brasil,15,3.02,True
+319,Despacho Castell S.A.,México,26,3.81,True
+320,Alejo Tena Quintero S.L.,Perú,14,2.81,True
+321,Dalmau y Castrillo S.Coop.,China,11,4.31,True
+322,Ruperto Casal Valero S.A.,China,24,1.38,True
+323,Hotel Ibéricos S.L.L.,Argentina,22,2.02,True
+324,Camps y Pomares S.L.N.E,USA,3,1.36,True
+325,Despacho KZMX S.Coop.,México,14,1.39,True
+326,Arturo Hierro Piñol S.Com.,Chile,18,1.24,True
+327,Cámara y asociados S.Coop.,Argentina,22,1.49,True
+328,Banco Aragonés S.L.,China,28,,True
+329,Supermercados Manzanares S.Coop.,Brasil,20,2.25,True
+330,Distribuciones Ripoll S.Com.,Perú,5,3.63,True
+331,Medina y Arellano S.L.,México,12,4.38,True
+332,Farmaceútica Planas y asociados S.Com.,México,25,2.11,True
+333,Fábrica Ibérica S.L.N.E,China,28,3.24,False
+334,Mar Recio Cortés S.L.N.E,Colombia,20,4.72,True
+335,Alexandra Canales Benítez S.L.,Colombia,6,2.09,True
+336,Alonso & Asociados S.L.L.,Argentina,12,1.02,True
+337,Torralba y asociados S.A.,China,3,1.57,True
+338,Hotel ZHC S.L.N.E,México,24,3.12,True
+339,Querol y Sebastián S.L.N.E,China,15,2.36,True
+340,Bernarda Manjón Bustos S.Coop.,Brasil,24,2.3,False
+341,Almudena Ugarte Quirós S.Coop.,México,29,1.21,True
+342,Compañía FC S.Com.,Colombia,22,1.33,True
+343,Familia Sureda S.Com.,China,16,3.43,True
+344,Minería Feliu S.L.N.E,Brasil,7,4.02,True
+345,Banca Privada Lluch y asociados S.Com.,Argentina,14,1.44,False
+346,Escudero y Palau S.A.D,USA,17,3.67,True
+347,Soluciones Marcos S.Com.,Perú,13,,True
+348,Peláez y Tejero S.L.N.E,Colombia,7,2.21,True
+349,Tecnologías Españolas S.C.P,Chile,25,2.02,True
+350,Consultoría Globales S.A.,México,1,2.99,True
+351,Compañía Monreal y asociados S.Coop.,Chile,5,2.52,True
+352,Grupo Pedraza S.C.P,Argentina,3,2.59,True
+353,Supermercados SKU S.Com.,China,1,2.84,True
+354,Soluciones Carreño & Asociados S.L.N.E,Argentina,19,2.72,True
+355,Hermanos Valera S.A.T.,China,10,1.46,True
+356,Instalaciones Iberia S.L.N.E,Argentina,6,4.21,False
+357,Emilio Castañeda Morales S.L.,USA,27,3.76,True
+358,Anglada y asociados S.Coop.,México,14,4.38,True
+359,Desarrollo Españolas S.C.P,China,19,2.6,True
+360,Grupo Rios S.A.,China,28,2.24,True
+361,Lorenzo Pedrero López S.A.T.,Perú,11,,True
+362,Manufacturas Ojeda & Asociados S.L.N.E,México,17,3.04,True
+363,Talleres RXSB S.L.,Argentina,24,4.83,True
+364,Múñiz y Campo S.A.,Perú,4,1.59,True
+365,Minería AAEH S.A.,Chile,20,1.61,True
+366,Logística Menéndez S.L.N.E,Chile,25,3.51,True
+367,Fábrica Zabala & Asociados S.Com.,USA,22,4.7,False
+368,Banco Mas S.Coop.,Argentina,28,4.88,True
+369,Familia Salazar S.A.,Chile,15,1.27,True
+370,Consultoría Barral y asociados S.A.,Brasil,26,2.1,True
+371,Instalaciones Mendez y asociados S.Coop.,Argentina,17,1.3,True
+372,Construcción del Levante S.Coop.,USA,2,1.23,True
+373,Baena & Asociados S.L.N.E,México,21,4.46,True
+374,Familia Tormo S.Com.,China,15,3.32,True
+375,Compañía Nicolau S.C.P,USA,30,4.24,True
+376,Curro Arnal Luján S.Com.,Argentina,20,2.9,True
+377,Compañía Nicolau S.C.P,Colombia,15,1.41,True
+378,Palomar y Ballesteros S.A.,México,17,,True
+379,Bernal & Asociados S.L.,Perú,23,2.75,True
+380,Grupo Portillo S.C.P,Chile,12,2.49,True
+381,Despacho Bello S.L.,China,14,4.1,False
+382,Pujol y Agustín S.L.,Colombia,26,3.52,True
+383,Hnos Bolaños S.Com.,México,11,1.38,True
+384,Suministros del Levante S.A.T.,Brasil,9,,False
+385,Comercial Alonso S.L.,Chile,11,1.33,True
+386,Hnos Carbajo S.L.N.E,Argentina,10,4.87,True
+387,Inversiones Anguita S.L.,Chile,20,3.84,True
+388,Merino y asociados S.Com.,Brasil,18,2.51,True
+389,Peña y Morera S.Coop.,Chile,22,3.81,True
+390,Hnos Montenegro S.A.U,México,21,3.68,True
+391,Carvajal y asociados S.A.D,Argentina,1,2.45,True
+392,Hnos Guillen S.Com.,Perú,11,4.79,True
+393,Farmaceútica Inteligentes S.L.U.,Perú,8,5.0,True
+394,Requena & Asociados S.Coop.,México,10,4.38,True
+395,Inmobiliaria PXN S.A.,Colombia,22,2.35,False
+396,Casandra Palma Aguilera S.L.,Chile,20,,True
+397,Hermanos Sanabria S.Coop.,Chile,27,3.77,False
+398,Fábrica Hervia S.L.U.,Chile,24,2.75,True
+399,Minería Arellano S.Coop.,Argentina,22,,True
+400,Hermanos Patiño S.L.N.E,Brasil,25,3.99,True
+401,Minería Pi y asociados S.Com.,Perú,18,1.96,True
+402,Grupo Cuervo S.A.D,Perú,12,3.71,False
+403,Franch y asociados S.Com.,USA,15,4.08,True
+404,Supermercados WY S.L.,China,6,4.27,False
+405,Laguna y asociados S.A.,Chile,28,2.0,True
+406,Suministros Sureda y asociados S.L.,Argentina,18,4.74,True
+407,Industrias Ojeda y asociados S.A.,México,10,1.34,True
+408,Desarrollo Farré & Asociados S.Coop.,Brasil,15,4.62,True
+409,Promociones Villanueva & Asociados S.L.L.,China,3,4.79,True
+410,Alimentación Ibérica S.L.N.E,USA,29,2.4,True
+411,Tecnologías Ibáñez S.A.,China,2,2.59,True
+412,Farmaceútica Internacionales S.L.,Perú,13,4.98,True
+413,Grupo Álamo S.A.,Perú,1,2.27,True
+414,Compañía Perera S.Coop.,Argentina,26,1.58,True
+415,Lorena Patiño Soto S.L.,Brasil,30,4.32,True
+416,Palomar y Salamanca S.Com.,USA,15,3.46,True
+417,Manufacturas Jerez & Asociados S.Coop.,Colombia,9,1.86,True
+418,Desarrollo Ibérica S.Coop.,China,4,4.1,True
+419,Infraestructuras Carrillo & Asociados S.L.,Brasil,4,1.19,True
+420,Lara Galán Vendrell S.Com.,USA,3,1.44,True
+421,Distribuciones Benavides S.L.N.E,Colombia,21,3.06,True
+422,Hnos Cabanillas S.A.,Chile,10,2.72,False
+423,Despacho ZORM S.C.P,Argentina,8,3.28,True
+424,Transportes Ibérica S.Com.,México,17,4.9,True
+425,Industrias Villalobos S.L.,Colombia,13,4.49,True
+426,Gomez & Asociados S.Coop.,China,12,2.01,True
+427,Supermercados Benítez S.Com.,Argentina,26,1.27,True
+428,Banca Privada Rosales S.L.L.,México,25,3.33,True
+429,Santamaría & Asociados S.Com.,Chile,2,2.41,True
+430,Quero & Asociados S.Com.,Chile,27,4.12,True
+431,Manufacturas del Levante S.L.,USA,21,1.73,True
+432,Alexandra Juliá Otero S.A.,México,23,4.1,True
+433,Soluciones Sureda S.Coop.,Colombia,10,1.81,True
+434,Hermanos Cortes S.A.,Colombia,11,4.73,True
+435,Soluciones Gilabert & Asociados S.L.N.E,China,27,3.17,True
+436,Logística HHT S.A.,Colombia,25,3.59,True
+437,Manufacturas del Noroeste S.Com.,Argentina,28,4.12,True
+438,Alimentación Márquez S.L.,Brasil,4,4.2,True
+439,Logística Andrade y asociados S.L.N.E,China,24,2.76,True
+440,Desarrollo Integrales S.L.U.,Argentina,6,2.98,True
+441,Comercial Benavent S.Com.,Argentina,30,4.19,True
+442,Joel Nieto Valero S.A.,México,24,2.7,True
+443,Mur y Fortuny S.L.N.E,Chile,18,2.18,True
+444,Grupo Plana S.A.,México,11,3.64,True
+445,Inversiones Coll S.Com.,USA,20,3.87,True
+446,Hnos Ferrán S.A.,USA,12,2.79,True
+447,Valenciano & Asociados S.A.,China,9,3.56,True
+448,Consultoría QIJY S.Coop.,México,22,3.55,True
+449,Ayala y Villar S.Com.,Chile,1,1.57,False
+450,Zaira Bautista Esteban S.Com.,USA,2,1.5,True
+451,Artigas y Lucena S.A.,Argentina,12,2.53,False
+452,Suministros Globales S.Com.,Colombia,20,1.61,True
+453,Artemio Llano Alcaraz S.L.N.E,Argentina,12,2.78,True
+454,Logística Vidal S.L.,Chile,17,2.47,True
+455,Compañía OS S.A.T.,Brasil,8,4.84,True
+456,Banco Alberto y asociados S.Coop.,Chile,16,3.07,True
+457,Manjón & Asociados S.Coop.,México,9,,True
+458,Logística VEP S.A.,Perú,20,2.14,True
+459,Fuente y asociados S.Com.,Perú,4,1.54,True
+460,Herrero & Asociados S.Com.,USA,6,4.59,True
+461,Familia Barceló S.Coop.,México,26,3.73,True
+462,María Luisa Pagès Fuente S.A.,Argentina,23,1.26,True
+463,Supermercados JJL S.L.,Brasil,29,2.2,True
+464,Construcción Castilla S.L.,Chile,26,2.45,True
+465,Hermanos Cerdá S.Com.,México,7,4.17,True
+466,Hermanos Villanueva S.Com.,USA,1,2.44,False
+467,Herminia Guzmán Cifuentes S.Coop.,Argentina,15,4.21,True
+468,Huguet y asociados S.A.U,Chile,20,4.54,True
+469,Promociones Cervera S.A.T.,Brasil,13,5.0,True
+470,Nicanor Juan Jove S.L.N.E,China,25,2.64,False
+471,Hermanos Rivas S.A.T.,México,5,4.89,True
+472,Desarrollo UVVX S.L.,USA,15,3.72,True
+473,Martí y Pinilla S.L.,Chile,29,4.32,True
+474,Marco y asociados S.A.,Chile,25,4.87,True
+475,Manufacturas Carreras S.L.,Colombia,27,1.5,True
+476,Abascal y asociados S.Com.,Brasil,6,1.65,True
+477,Hermanos Lumbreras S.Coop.,Argentina,17,4.58,True
+478,Hermanos Pagès S.Com.,Brasil,7,3.54,True
+479,Rueda y Aller S.Coop.,Brasil,5,3.5,False
+480,Arévalo y Ferrándiz S.L.,México,17,3.56,False
+481,Farmaceútica Blanca S.Com.,Chile,6,3.63,False
+482,Manufacturas Isern y asociados S.L.L.,Argentina,27,4.7,True
+483,Alcántara y Navarro S.A.,Colombia,3,1.18,False
+484,Gervasio Valls Quero S.Coop.,Brasil,21,1.84,False
+485,Infraestructuras Garzón & Asociados S.Coop.,China,20,3.56,True
+486,Instalaciones Ferrando S.Com.,Brasil,21,4.83,True
+487,Alba Andrés Porcel S.Com.,Perú,26,4.23,True
+488,Servicios Bernat & Asociados S.L.L.,Brasil,15,1.29,True
+489,Grupo Riera S.Coop.,Chile,15,2.66,True
+490,Pomares y asociados S.L.L.,Perú,11,3.43,True
+491,Fábrica NRLZ S.A.,Argentina,24,,True
+492,Banca Privada Bou & Asociados S.A.,China,5,4.04,True
+493,Grupo Pino S.L.L.,México,11,1.97,True
+494,Despacho Andrade y asociados S.L.N.E,Brasil,15,1.99,True
+495,Inversiones Busquets & Asociados S.Com.,Colombia,10,4.78,False
+496,Amada Cantón Fuertes S.L.,China,8,4.85,True
+497,Construcción Internacionales S.A.,Argentina,30,3.31,True
+498,Manufacturas Globales S.Com.,Perú,25,1.64,True
+499,Hermanos Larrea S.Com.,USA,16,4.52,True
+500,Aramburu y Asensio S.L.L.,Colombia,3,4.78,True
+501,Instalaciones Escobar S.Coop.,USA,8,1.86,True
+502,Minería Silva y asociados S.A.,Colombia,2,2.13,False
+503,Despacho del Norte S.A.,USA,10,3.15,True
+504,Grupo Falcó S.Com.,China,5,4.53,True
+505,Carvajal y Lladó S.L.,China,12,1.18,True
+506,Banco Mariscal y asociados S.A.,Perú,12,3.21,True
+507,Barroso y asociados S.L.N.E,China,17,2.8,True
+508,Familia Almeida S.A.D,Brasil,27,4.96,False
+509,Industrias Borrell S.L.N.E,México,5,4.9,True
+510,Hermanos Salom S.A.,Argentina,26,4.95,True
+511,Hotel Ibéricos S.L.,Argentina,25,1.58,False
+512,Finanzas Ugarte S.Com.,China,17,1.16,True
+513,Cristian Gonzalez Aguado S.A.D,Chile,23,2.33,True
+514,Parejo y asociados S.A.,USA,5,3.43,True
+515,Ramón y Carbonell S.Com.,Chile,11,4.73,True
+516,Minería Aranda S.L.L.,Chile,13,4.96,True
+517,Desarrollo SXY S.L.L.,Argentina,17,4.31,True
+518,Eligia Seco Llorens S.C.P,USA,23,3.25,True
+519,Inmobiliaria CEPK S.L.L.,Colombia,12,2.32,True
+520,Comercializadora Román S.L.,China,19,2.23,True
+521,Soluciones Sáez S.L.,USA,9,4.87,False
+522,Hnos Abella S.L.,Perú,24,1.21,True
+523,Escrivá y asociados S.C.P,Chile,17,3.52,False
+524,Consultoría Garrido & Asociados S.Coop.,China,5,4.29,True
+525,Alimentación Moraleda y asociados S.Com.,Colombia,19,4.79,True
+526,Jara & Asociados S.Com.,Perú,1,2.76,True
+527,Domínguez & Asociados S.A.,Chile,14,,True
+528,Hermanos Palomar S.A.,USA,28,4.39,True
+529,Ariel Serna Duran S.C.P,Chile,17,1.83,True
+530,Rivero & Asociados S.Coop.,USA,17,,True
+531,Inmobiliaria Losada y asociados S.L.,USA,30,3.13,True
+532,Transportes Báez & Asociados S.C.P,Argentina,22,4.09,True
+533,Comercializadora Casal S.C.P,USA,7,4.83,True
+534,Promociones GGG S.L.N.E,Brasil,8,,True
+535,Banco Ripoll S.A.,Brasil,23,1.83,True
+536,Instalaciones IZRT S.Coop.,Argentina,16,2.4,True
+537,Comercial del Mediterráneo S.C.P,Brasil,4,3.29,True
+538,Talleres Castilla & Asociados S.L.N.E,China,29,4.92,True
+539,Hurtado & Asociados S.C.P,Chile,10,1.17,True
+540,Trinidad Simó Valenciano S.A.,Argentina,30,2.77,True
+541,Supermercados UR S.A.,USA,7,1.81,True
+542,Florencia Tejera Pujol S.L.L.,Brasil,30,3.25,True
+543,Hermanos Coello S.A.,Chile,4,3.46,False
+544,Fábrica Quirós y asociados S.L.N.E,Perú,8,1.2,True
+545,Logística del Noroeste S.A.U,Perú,21,1.93,True
+546,Hnos Sotelo S.L.,China,11,3.87,True
+547,Infraestructuras YATD S.L.N.E,Chile,1,4.86,True
+548,Hermanos Olmo S.Coop.,China,21,4.74,True
+549,Carmona & Asociados S.A.,USA,21,1.8,True
+550,Infraestructuras Vendrell S.Coop.,Argentina,10,3.58,True
+551,Abella y asociados S.A.,Perú,18,3.95,True
+552,Ferrando y Espada S.A.,Chile,14,4.53,True
+553,Manu Collado Sedano S.L.N.E,Colombia,27,2.59,True
+554,Construcción Iberia S.A.,Chile,30,4.0,True
+555,Farmaceútica del Sur S.A.,Colombia,1,2.19,False
+556,Roque Vigil Mendez S.A.,México,30,4.93,True
+557,Familia Jerez S.A.,USA,21,3.17,True
+558,Candelaria Losa Vargas S.L.L.,Chile,28,3.02,True
+559,Restauración ZL S.L.N.E,Perú,26,1.45,True
+560,Logística GH S.A.,USA,21,2.03,True
+561,Construcción HYF S.Coop.,Colombia,24,2.35,True
+562,Soluciones Barrio & Asociados S.Coop.,Perú,6,3.44,True
+563,Tecnologías Alarcón S.L.L.,China,17,2.31,True
+564,Infraestructuras Ferrando S.L.,México,6,4.93,True
+565,Victorino Bárcena Sanmiguel S.A.,Argentina,30,1.99,True
+566,Hotel Globales S.L.N.E,China,8,2.79,True
+567,Mas y asociados S.L.,Argentina,10,3.33,False
+568,María Fernanda Diego Vilalta S.Coop.,Colombia,9,3.61,True
+569,Cervantes y asociados S.L.L.,Colombia,22,1.47,True
+570,Grupo Acevedo S.L.N.E,Chile,13,3.74,True
+571,Banco Company y asociados S.L.L.,México,21,,True
+572,Banco TUN S.L.,Argentina,20,1.88,True
+573,Minería Gimenez S.L.U.,USA,5,2.82,False
+574,Soluciones Arnaiz S.Coop.,Argentina,14,3.81,True
+575,Suárez & Asociados S.L.N.E,Perú,25,1.99,False
+576,Familia Bosch S.L.,México,17,2.79,True
+577,Manufacturas Prats S.A.,México,30,3.26,True
+578,Hermanos Bello S.L.,Perú,19,3.15,True
+579,Familia Juan S.Coop.,Argentina,28,,True
+580,Infraestructuras Ríos y asociados S.L.L.,Perú,23,3.33,True
+581,Grupo Llopis S.Coop.,USA,26,1.22,True
+582,Febe Rivero Pombo S.L.L.,China,15,3.26,True
+583,Comercializadora Manzano & Asociados S.Coop.,USA,22,4.23,True
+584,Solano y Lucas S.Com.,China,9,4.27,True
+585,Logística Trujillo y asociados S.L.,México,2,2.69,True
+586,Distribuciones AZS S.L.N.E,Colombia,30,4.58,True
+587,Iglesias y asociados S.L.,Colombia,10,2.64,True
+588,Garmendia & Asociados S.A.,China,12,4.97,True
+589,Servicios Peña S.A.,USA,28,4.67,True
+590,Banco Pareja S.L.L.,China,3,3.73,True
+591,Cayetana Valencia Acedo S.Com.,Chile,21,4.44,True
+592,Tomas y Alcalde S.Coop.,Chile,18,2.57,True
+593,Consultoría del Sur S.L.,Perú,27,1.01,True
+594,Grupo Escudero S.A.T.,Brasil,15,3.69,True
+595,Soluciones Mancebo S.L.,China,18,2.52,True
+596,Asenjo y Coca S.Com.,Perú,15,2.38,True
+597,Minería Castellana S.Coop.,Perú,30,4.5,True
+598,Consultoría Tejera & Asociados S.Coop.,Colombia,26,3.64,False
+599,Manufacturas Vázquez & Asociados S.L.N.E,Colombia,8,1.82,True
+600,Hermanos Pacheco S.L.,Colombia,15,3.39,True
+601,Distribuciones MA S.Com.,Perú,24,1.18,True
+602,Brígida Rosell Pascual S.Coop.,Perú,18,1.87,True
+603,Manuela Busquets Contreras S.Coop.,Chile,17,4.97,True
+604,Talleres Cadenas & Asociados S.L.N.E,Argentina,19,3.39,True
+605,Despacho ESSG S.Com.,Perú,10,4.51,True
+606,Construcción Hierro S.A.,Perú,14,2.2,True
+607,Montero & Asociados S.Coop.,Chile,21,3.72,True
+608,Aguiló & Asociados S.Coop.,USA,2,4.89,True
+609,Infraestructuras Juan & Asociados S.A.U,Argentina,23,2.67,True
+610,Cornejo y Chaves S.L.,Brasil,13,1.74,True
+611,Hnos Casas S.Coop.,USA,8,,True
+612,Roig y asociados S.L.U.,Chile,26,2.85,True
+613,Dafne Casanovas Alcázar S.L.L.,China,14,3.23,True
+614,Suministros Talavera & Asociados S.Coop.,China,8,2.02,True
+615,Minería Mendez S.A.,México,30,2.8,True
+616,Colom y Jover S.L.N.E,México,18,3.9,True
+617,Comercializadora Pou y asociados S.Coop.,Colombia,9,2.51,False
+618,Inmobiliaria Revilla y asociados S.L.N.E,Colombia,28,1.29,False
+619,Hnos Muro S.L.,Perú,16,1.84,True
+620,Dávila y asociados S.L.,Brasil,30,1.06,True
+621,Comercial Esparza & Asociados S.L.N.E,México,24,5.0,True
+622,Comercializadora IKQ S.A.,Perú,23,,True
+623,Hermanos Gaya S.Com.,China,30,,True
+624,Farmaceútica Roda S.Coop.,Brasil,13,2.87,True
+625,Inmobiliaria del Mediterráneo S.A.,Brasil,9,2.44,True
+626,Fábrica VYWH S.Com.,USA,4,4.21,True
+627,Esteban y Benavides S.L.N.E,Argentina,30,1.81,True
+628,Hnos Salvador S.Com.,China,2,3.25,True
+629,Susanita Martorell Tejada S.L.U.,Chile,1,2.04,False
+630,Hnos Dominguez S.L.U.,China,10,1.61,True
+631,Hnos Flores S.Com.,Perú,13,3.28,True
+632,Servicios del Mediterráneo S.Com.,USA,18,3.62,True
+633,Alimentación Robles S.Com.,Brasil,25,4.29,True
+634,Instalaciones Parejo & Asociados S.A.,USA,6,3.93,True
+635,Logística Arjona & Asociados S.L.U.,Chile,5,3.88,True
+636,Banco Inteligentes S.Coop.,Chile,30,,True
+637,Inmobiliaria BC S.L.U.,Colombia,27,4.39,True
+638,José María Merino Piña S.Com.,Colombia,14,,True
+639,Sabina Portillo Múñiz S.A.,México,23,1.6,True
+640,Alimentación GG S.L.N.E,USA,12,1.24,False
+641,Fábrica Españolas S.C.P,USA,22,2.95,True
+642,Soler y asociados S.Coop.,China,1,1.07,True
+643,Hermanos Alsina S.L.,Brasil,1,3.01,True
+644,Mayoral y Solera S.L.,Chile,4,4.67,True
+645,Ainoa Fernandez Blanco S.Com.,Chile,8,1.77,True
+646,Finanzas Reina & Asociados S.L.N.E,Brasil,27,2.42,True
+647,Paloma Murillo Hurtado S.L.L.,México,12,4.84,True
+648,Farmaceútica Ros & Asociados S.C.P,Perú,23,1.9,True
+649,Palomar y asociados S.Coop.,Colombia,3,2.62,True
+650,Manjón & Asociados S.L.L.,USA,2,3.55,True
+651,Distribuciones Vaquero S.L.N.E,México,16,4.38,True
+652,Canales y asociados S.Com.,México,29,3.11,True
+653,Instalaciones XW S.L.L.,Perú,7,4.61,False
+654,Paola Carballo Chaparro S.Coop.,USA,9,1.19,True
+655,Farmaceútica VIZ S.A.T.,Brasil,29,3.17,True
+656,Badía y asociados S.L.,Chile,30,4.4,True
+657,Inmobiliaria WVZD S.A.,Perú,19,1.58,True
+658,Almansa y Criado S.Com.,México,10,1.65,True
+659,Inmobiliaria del Levante S.L.,China,22,,True
+660,Canals y Miguel S.L.,China,25,3.96,True
+661,Elisa Figuerola Cuenca S.C.P,Argentina,2,1.39,True
+662,Suministros Exposito S.L.N.E,México,11,3.42,False
+663,Plana & Asociados S.Coop.,China,25,2.31,True
+664,Reig y asociados S.Com.,USA,16,1.91,True
+665,Familia Pozo S.L.L.,China,14,1.74,False
+666,Hnos Sanabria S.C.P,China,3,4.09,True
+667,Teruel y Rozas S.C.P,Perú,23,1.29,True
+668,Minería Iberia S.L.,Chile,13,,True
+669,Lillo y Losada S.L.,China,11,2.44,True
+670,Inmobiliaria Ibéricos S.L.,Colombia,10,2.78,True
+671,Hotel Peñalver S.Coop.,México,5,1.35,True
+672,Moreno y Cuesta S.Com.,USA,18,3.22,True
+673,Hnos Bou S.Com.,México,1,1.36,True
+674,Construcción XQWT S.Com.,México,20,3.39,True
+675,Restauración del Mediterráneo S.L.,China,1,2.17,True
+676,Leire Vega Rius S.L.L.,México,24,4.6,True
+677,Hermanos Cánovas S.Com.,Chile,22,2.52,True
+678,Flor y Aparicio S.L.,Brasil,10,2.07,True
+679,Hotel Andrés S.Com.,México,6,2.74,True
+680,Alberola y Hernando S.Coop.,Brasil,16,4.13,True
+681,Servicios del Norte S.Com.,Brasil,8,3.88,True
+682,Distribuciones LK S.A.,Perú,15,1.43,True
+683,Supermercados Olivares S.A.,Colombia,13,2.33,False
+684,Laguna y Robledo S.Coop.,China,26,4.45,True
+685,Yésica Andreu Bauzà S.A.,Argentina,14,4.26,False
+686,Industrias Campillo S.L.,Chile,10,2.28,True
+687,Constanza Aguirre Tudela S.L.L.,USA,11,1.71,True
+688,Hnos Roca S.Coop.,Argentina,10,3.94,True
+689,Ropero y Calderon S.L.,Perú,11,2.5,True
+690,Rosado y Ramirez S.A.,Argentina,4,4.73,True
+691,Instalaciones Solsona S.Com.,Chile,22,4.07,True
+692,Minería Alarcón y asociados S.A.T.,USA,23,1.84,True
+693,Desarrollo Inteligentes S.A.D,México,27,,True
+694,Blas Cabrera Viña S.Com.,USA,5,3.53,True
+695,Logística CVIF S.Coop.,Brasil,22,1.62,True
+696,Alimentación Avanzadas S.L.,China,3,2.8,False
+697,Hotel del Mediterráneo S.Com.,USA,19,,True
+698,Grupo Ribes S.A.,China,18,1.15,True
+699,Sandoval & Asociados S.A.D,México,4,4.08,True
+700,Hotel EMF S.L.,Chile,21,3.45,False
+701,Ariel Farré Múgica S.L.N.E,China,25,2.33,True
+702,Consultoría FG S.A.,México,1,1.39,True
+703,Arnal y Bauzà S.Coop.,Perú,15,2.5,True
+704,Raya & Asociados S.A.U,Chile,12,4.99,True
+705,Hotel KER S.A.,México,10,2.66,True
+706,Familia Figueras S.C.P,México,27,4.76,True
+707,Asensio y Nogueira S.Coop.,Argentina,10,2.37,True
+708,Soluciones Pombo S.A.,USA,12,2.9,True
+709,Finanzas Cerdán y asociados S.L.N.E,USA,11,1.27,True
+710,Feijoo & Asociados S.C.P,México,1,4.4,True
+711,Calista Vall Garcia S.Coop.,Chile,30,4.94,True
+712,Vicens y Moreno S.L.,Chile,18,1.64,True
+713,Sotelo y Larrañaga S.L.U.,China,15,1.93,True
+714,Mohamed Bejarano Abellán S.A.,Chile,6,3.56,True
+715,Industrias CH S.A.,China,1,3.95,True
+716,Banca Privada del Sur S.L.N.E,USA,19,2.72,True
+717,Industrias del Levante S.Coop.,Perú,7,2.11,True
+718,Miguel y asociados S.Coop.,México,26,4.49,True
+719,Comercializadora Lobato S.L.,Argentina,11,1.79,True
+720,Banco Araujo S.L.,Brasil,22,4.45,True
+721,Minería Herrero S.L.N.E,Argentina,20,2.55,True
+722,Santana y asociados S.Coop.,México,12,,True
+723,Compañía del Norte S.L.N.E,Chile,27,3.69,True
+724,Vallejo y Meléndez S.L.N.E,México,22,1.54,True
+725,Petrona Alegre Solana S.A.T.,Perú,10,1.47,True
+726,Hermanos Tejedor S.L.,Chile,17,2.55,False
+727,Fábrica Reyes & Asociados S.A.,Chile,19,2.53,True
+728,Promociones Aguado y asociados S.A.,USA,21,3.15,True
+729,Trillo y Torrents S.L.N.E,Chile,16,2.16,True
+730,Rufino Heredia Real S.L.N.E,Argentina,27,2.8,True
+731,Restauración Castellana S.A.,Argentina,1,2.94,True
+732,Hnos Sosa S.A.,China,18,3.02,True
+733,Tecnologías KON S.Com.,China,22,2.97,True
+734,Donaire y Abad S.L.U.,USA,6,1.33,True
+735,Taboada y Bustos S.Coop.,Perú,10,1.13,True
+736,Compañía Cuéllar S.Coop.,Brasil,6,4.12,False
+737,Arnau & Asociados S.L.,USA,18,3.04,False
+738,Banca Privada LLFX S.L.N.E,México,9,4.1,True
+739,Grupo Rodrigo S.Com.,Colombia,25,3.88,True
+740,Hnos Gargallo S.L.N.E,Perú,14,1.41,True
+741,Banca Privada Miró y asociados S.L.,Brasil,28,5.0,True
+742,Saez y Pereira S.C.P,Brasil,12,,True
+743,Hermanos Ibarra S.L.L.,USA,28,4.98,True
+744,Construcción Ibáñez y asociados S.A.,Perú,26,3.95,True
+745,Marín y Asensio S.L.L.,China,6,3.46,True
+746,Hermanos Bonet S.L.,Perú,26,1.24,True
+747,Vasco Alcázar Aznar S.A.,Brasil,20,,True
+748,Barrio y asociados S.Com.,Brasil,10,3.29,True
+749,Logística Acevedo S.L.N.E,México,5,4.85,True
+750,Amores y Expósito S.Coop.,Colombia,9,4.47,True
+751,Supermercados Iberia S.Coop.,Chile,8,1.58,True
+752,Hnos Alcalde S.L.N.E,Perú,25,4.37,True
+753,Hnos Lopez S.L.,USA,5,3.31,True
+754,Zaida Espada Busquets S.Com.,China,13,2.81,True
+755,Industrias Pedrosa S.A.,China,17,4.0,True
+756,Godofredo Tomé Asensio S.L.,USA,16,2.31,True
+757,Supermercados BRH S.L.,México,24,4.89,True
+758,María Del Carmen Vicens Figueroa S.Com.,México,26,3.14,True
+759,Alimentación Inteligentes S.Com.,China,27,1.85,True
+760,Hermanos Ocaña S.L.L.,Argentina,27,2.13,True
+761,Inversiones Perera S.Coop.,Chile,19,,True
+762,Ruiz & Asociados S.L.,Colombia,2,1.4,True
+763,Hnos Agustí S.L.N.E,Colombia,4,4.72,True
+764,Restauración NZU S.Com.,USA,15,1.0,True
+765,Supermercados Martín & Asociados S.A.,Perú,23,4.64,True
+766,Anaya y Calvet S.L.L.,Chile,28,4.73,True
+767,Sarabia y Escrivá S.L.,México,21,2.44,True
+768,Desarrollo del Mediterráneo S.L.N.E,Argentina,22,4.62,True
+769,Banco Pozuelo S.Com.,Colombia,13,3.5,True
+770,Talleres Rozas S.L.N.E,China,21,1.36,True
+771,Olga Llanos Collado S.Coop.,Colombia,7,2.91,True
+772,Ribera & Asociados S.A.,Perú,17,3.72,True
+773,Malo y Quevedo S.C.P,Colombia,23,2.37,True
+774,Fábrica Solera S.Coop.,China,23,1.53,True
+775,Promociones Pedraza S.L.,Perú,13,1.36,True
+776,Distribuciones Nevado S.L.N.E,México,11,2.47,True
+777,Finanzas Puga y asociados S.Coop.,Chile,13,4.09,True
+778,Servicios Integrales S.Coop.,Chile,3,3.12,True
+779,Alimentación Internacionales S.C.P,Chile,15,2.4,True
+780,Transportes Hernández y asociados S.L.U.,Chile,30,2.65,True
+781,Supermercados Rovira y asociados S.L.,Perú,3,4.59,True
+782,Supermercados Ramón & Asociados S.Com.,México,19,3.92,True
+783,Pino y Villalobos S.A.,China,11,4.16,True
+784,Comercial NXWW S.A.,Brasil,21,1.34,True
+785,Minería Duarte S.L.,Brasil,25,4.77,True
+786,Velázquez y Valenzuela S.Com.,Brasil,7,3.07,True
+787,Restauración Integrales S.Coop.,Perú,24,2.57,True
+788,Tecnologías Iberia S.Com.,Perú,16,2.54,True
+789,Jose Miguel Carrera Losa S.L.,USA,21,3.38,True
+790,Grupo Ureña S.Com.,Colombia,12,4.74,True
+791,Hnos Fabregat S.A.,China,28,4.36,True
+792,Hnos Gallart S.A.,Argentina,18,3.73,True
+793,Supermercados Ibéricos S.Coop.,México,1,3.35,True
+794,Ramón Badía Amigó S.L.L.,Brasil,7,1.16,True
+795,Minería Perelló S.A.T.,China,17,2.15,True
+796,Farmaceútica LHXR S.A.,China,14,3.81,True
+797,Construcción PKO S.Coop.,Chile,9,,True
+798,Montaña y Bermudez S.A.T.,Perú,26,1.62,True
+799,Familia Cabello S.A.,China,19,3.54,True
+800,Comercializadora WY S.L.,Brasil,23,2.75,True
