@@ -2,6 +2,9 @@ venv/
 __pycache__/
 *.pyc
 .env
-terraform.tfstate
-terraform.tfstate.backup
+
+# Terraform
 .terraform/
+*.tfstate
+*.tfstate.backup
+terraform.tfvars
