@@ -1,0 +1,84 @@
+{
+    "name": "pl-retailmax-main",
+    "properties": {
+        "activities": [
+            {
+                "name": "bronze_pipeline",
+                "type": "DatabricksNotebook",
+                "dependsOn": [],
+                "policy": {
+                    "timeout": "1:00:00",
+                    "retry": 3,
+                    "retryIntervalInSeconds": 60,
+                    "secureOutput": false,
+                    "secureInput": false
+                },
+                "userProperties": [],
+                "typeProperties": {
+                    "notebookPath": "/Users/lauraocampo.bio@gmail.com/bronze_pipeline"
+                },
+                "linkedServiceName": {
+                    "referenceName": "ls_databricks_retailmax",
+                    "type": "LinkedServiceReference"
+                }
+            },
+            {
+                "name": "bronze_to_silver",
+                "type": "DatabricksNotebook",
+                "dependsOn": [
+                    {
+                        "activity": "bronze_pipeline",
+                        "dependencyConditions": [
+                            "Succeeded"
+                        ]
+                    }
+                ],
+                "policy": {
+                    "timeout": "1:00:00",
+                    "retry": 3,
+                    "retryIntervalInSeconds": 60,
+                    "secureOutput": false,
+                    "secureInput": false
+                },
+                "userProperties": [],
+                "typeProperties": {
+                    "notebookPath": "/Users/lauraocampo.bio@gmail.com/bronze_to_silver"
+                },
+                "linkedServiceName": {
+                    "referenceName": "ls_databricks_retailmax",
+                    "type": "LinkedServiceReference"
+                }
+            },
+            {
+                "name": "silver_to_gold",
+                "type": "DatabricksNotebook",
+                "dependsOn": [
+                    {
+                        "activity": "bronze_to_silver",
+                        "dependencyConditions": [
+                            "Succeeded"
+                        ]
+                    }
+                ],
+                "policy": {
+                    "timeout": "1:00:00",
+                    "retry": 3,
+                    "retryIntervalInSeconds": 60,
+                    "secureOutput": false,
+                    "secureInput": false
+                },
+                "userProperties": [],
+                "typeProperties": {
+                    "notebookPath": "/Users/lauraocampo.bio@gmail.com/silver_to_gold"
+                },
+                "linkedServiceName": {
+                    "referenceName": "ls_databricks_retailmax",
+                    "type": "LinkedServiceReference"
+                }
+            }
+        ],
+        "annotations": [],
+        "lastPublishTime": "2026-05-21T01:18:51Z"
+    },
+    "type": "Microsoft.DataFactory/factories/pipelines"
+}

@@ -366,3 +366,7 @@ az storage container create \
 | Action Group                 | Alertas y notificaciones                |
 | Databricks Access Connector  | Conexión segura entre Databricks y ADLS |
 | Role Assignments (RBAC)      | Gestión de permisos sobre recursos      |
+
+# Las Fases 3,4 y 5:
+se realizan en azure portal y sus diferentes recursos como databricks y data factory, ademas de monitor, action groups , key vault , etc...
+se deja documentacion y evidencias acerca de esos procesos
