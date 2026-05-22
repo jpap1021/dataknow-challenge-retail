@@ -1,0 +1,19 @@
+Python Faker
+        ↓
+Azure SQL Database
+        ↓
+Databricks Bronze Pipeline
+        ↓
+ADLS Bronze
+        ↓
+Databricks Silver Pipeline
+        ↓
+ADLS Silver
+        ↓
+Databricks Gold Pipeline
+        ↓
+ADLS Gold
+        ↓
+Unity Catalog
+        ↓
+KPIs / Analytics

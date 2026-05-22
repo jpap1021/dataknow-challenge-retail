@@ -1,3 +1,11 @@
+
+# Challenge
+1. se escoge el escenario B, fue el que me parecio mas interesante.
+2. se elige azure, ya habia creado algunos recursos como azure functions.
+
+# Nota: 
+* dado que mis cuentas de correo ya no servian para el free trial de azure, se utilizo el siguiente correo Lauraocampo.bio@gmail.com
+
 # RetailMax Data Platform — Documentación del Proyecto
 
 Este documento tiene como finalidad explicar paso a paso la construcción del challenge técnico, incluyendo las decisiones de arquitectura, tecnologías utilizadas y procedimientos necesarios para replicar completamente el proyecto desde cero.
@@ -22,8 +30,8 @@ Por esta razón, si al desplegar el proyecto aparece un error indicando que el n
 # Clonar el Repositorio
 
 ```bash
-git clone <url-del-repositorio>
-cd <nombre-del-repositorio>
+git clone https://github.com/jpap1021/dataknow-challenge-retail.git
+cd dataknow-challenge-retail
 ```
 
 ---
@@ -367,6 +375,24 @@ az storage container create \
 | Databricks Access Connector  | Conexión segura entre Databricks y ADLS |
 | Role Assignments (RBAC)      | Gestión de permisos sobre recursos      |
 
-# Las Fases 3,4 y 5:
-se realizan en azure portal y sus diferentes recursos como databricks y data factory, ademas de monitor, action groups , key vault , etc...
-se deja documentacion y evidencias acerca de esos procesos
+# Fases 3,4:
+en estas fases se podria integrar desde github mediante github action, hacer la configuracion repositorio databricks con la carpeta pipelines y adf con con la carpeta orchestation.
+
+Metodo manual
+1. lanza databricks
+2. crea un cluster en databriocks en la parte de compute.
+3. crea 3 notebooks en la parte de workspace
+2. copia los archivos de la carpeta pipelines, 
+
+
+# Data Factory
+Para la parte de Data Factory lleva el archivo que esta en orchesattion, necesitas haber creado un linked service, en la parte arriba derecha en el simbolo json y cambian el nombre del pipeline, que coincida con tu nombre en azure y tu json, se creara la sequencia y configuracion que se creo originalmente 
+
+# Fase 5
+No se realizo en este proyecto
+
+# Mejoras futuras
+1. documentacion
+2. completar la fase 5 del proyecto(roles y demas)
+3. integrar con github action
+
